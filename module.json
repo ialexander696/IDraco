@@ -1,22 +1,30 @@
 {
   "id": "idraco",
   "title": "idraco",
+  "description": "Colección de mapas y escenas listas para usar en Foundry VTT.",
   "version": "1.0.0",
+
+  "url": "https://github.com/ialexander696/foundry-prueba",
+  "manifest": "https://github.com/user-attachments/files/24556309/module.json",
+  "download": "https://github.com/user-attachments/files/24556308/idraco.zip",
+
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
+
   "authors": [
     {
       "name": "Idraco69",
       "email": "ialexander.696@gmail.com",
-      "discord": "idraco69",
-      "flags": {}
+      "discord": "idraco69"
     }
   ],
+
   "flags": {
     "canUpload": true
   },
+
   "packs": [
     {
       "name": "Mapas",
@@ -27,28 +35,24 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e",
-      "flags": {}
+      "system": "dnd5e"
     }
   ],
+
   "relationships": {
     "requires": [
       {
         "id": "monks-active-tiles",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "dnd5e-animations",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
       {
         "id": "jb2a_patreon",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       }
     ]
-  },
-  "description": ""
+  }
 }
