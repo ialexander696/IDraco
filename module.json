@@ -1,0 +1,54 @@
+{
+  "id": "idraco",
+  "title": "idraco",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Idraco69",
+      "email": "ialexander.696@gmail.com",
+      "discord": "idraco69",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Mapas",
+      "label": "Mapas",
+      "path": "packs/Mapas",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd5e-animations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "jb2a_patreon",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
