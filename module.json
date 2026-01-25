@@ -1,57 +1,137 @@
 {
   "id": "idraco",
   "title": "idraco",
-  "description": "Colección de mapas y escenas listas para usar en Foundry VTT.",
+  "description": "<p>Colección de mapas y escenas listas para usar en Foundry VTT.</p>",
   "version": "1.0.0",
-
-  "url": "https://github.com/ialexander696/foundry-prueba",
-  "manifest": "https://github.com/user-attachments/files/24556309/module.json",
-  "download": "https://github.com/user-attachments/files/24556308/idraco.zip",
-
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
-
   "authors": [
     {
       "name": "Idraco69",
       "email": "ialexander.696@gmail.com",
-      "discord": "idraco69"
+      "discord": "idraco69",
+      "flags": {}
     }
   ],
-
   "flags": {
     "canUpload": true
   },
-
   "packs": [
     {
-      "name": "Mapas",
-      "label": "Mapas",
-      "path": "packs/Mapas",
-      "type": "Scene",
+      "name": "idraco69",
+      "label": "idraco69",
+      "path": "packs/idraco69",
+      "type": "Adventure",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
+    },
+    {
+      "name": "Actor",
+      "label": "Actor",
+      "path": "packs/Actor",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Diario",
+      "label": "Diario",
+      "path": "packs/Diario",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Escena",
+      "label": "Escen",
+      "path": "packs/Escena",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "TablaDeTiradas",
+      "label": "TablaDeTiradas",
+      "path": "packs/TablaDeTiradas",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Objeto",
+      "label": "Objeto",
+      "path": "packs/Objeto",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "PlayList",
+      "label": "PlayList",
+      "path": "packs/PlayList",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
-
   "relationships": {
     "requires": [
       {
         "id": "monks-active-tiles",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "dnd5e-animations",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "jb2a_patreon",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "activity-macro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "autoanimations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-bloodsplats",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   }
