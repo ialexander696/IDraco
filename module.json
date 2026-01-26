@@ -4,7 +4,12 @@
   "description": "<p>Colección de mapas y escenas listas para usar en Foundry VTT.</p>",
   "version": "1.0.0",
 
-  
+ "url":
+  "https://github.com/ialexander696/IDraco",
+  "manifest":
+  "https://github.com/ialexander696/IDraco/releases/download/1.0.0/idraco.zip",
+  "download":
+  "https://github.com/ialexander696/IDraco/releases/download/1.0.0/idraco.zip",  
   "compatibility": {
     "minimum": "13",
     "verified": "13"
