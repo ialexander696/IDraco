@@ -1,0 +1,4541 @@
+{
+  "folder": "wvYUyGKBvKKtfaLw",
+  "name": "Guild Crazy Dragons",
+  "navigation": false,
+  "navOrder": 0,
+  "background": {
+    "src": "Landing%20Page/Manuscript-Archive-Room.png",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "thumb": "worlds/crazy-dragons-2/assets/scenes/K6ZNVtYLJHpMBQUs-thumb.webp",
+  "width": 4000,
+  "height": 3000,
+  "padding": 0,
+  "initial": {
+    "x": 2329,
+    "y": 1451,
+    "scale": 0.2953125
+  },
+  "backgroundColor": "#030303",
+  "grid": {
+    "type": 0,
+    "size": 100,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": false,
+  "fog": {
+    "exploration": false,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0.3,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": true,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 0.3
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0.1,
+      "luminosity": 0,
+      "saturation": 0.1,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.6,
+      "saturation": 0,
+      "shadows": 0.1
+    }
+  },
+  "drawings": [
+    {
+      "_id": "PGIhrWtzwE1NNjjS",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 1139,
+        "height": 176,
+        "radius": null,
+        "points": []
+      },
+      "x": 1850.6164021164022,
+      "y": 1001.9894179894181,
+      "elevation": 0,
+      "sort": 0,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Phandaling",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#050505",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "NzTrA7QfAVzSejXJ",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 324,
+        "height": 66,
+        "radius": null,
+        "points": []
+      },
+      "x": 1128.489417989418,
+      "y": 816.5026455026455,
+      "elevation": 0,
+      "sort": 1,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Crazy Dragons",
+      "fontFamily": "Amiri",
+      "fontSize": 50,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "oOHVhkk8Z9zIKcAh",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 628,
+        "height": 105,
+        "radius": null,
+        "points": []
+      },
+      "x": 2061,
+      "y": 1259,
+      "elevation": 0,
+      "sort": 2,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#f41a1a",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Reglas",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#0d0c0c",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "EShWw0yNGqg5oysO",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 338,
+        "height": 87,
+        "radius": null,
+        "points": []
+      },
+      "x": 61,
+      "y": 367,
+      "elevation": 0,
+      "sort": 3,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "ANARA",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#ea8ba7",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "F9t3xAYa02LWxWpd",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 358,
+        "height": 100,
+        "radius": null,
+        "points": []
+      },
+      "x": 79,
+      "y": 613,
+      "elevation": 0,
+      "sort": 4,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 1,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#81c959",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Borin",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#3b850a",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "g926oxGmMI1D2YvY",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 488,
+        "height": 144,
+        "radius": null,
+        "points": []
+      },
+      "x": 10,
+      "y": 836,
+      "elevation": 0,
+      "sort": 5,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Endor",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#c92222",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "gcUZrGDMNoswRe2q",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 633,
+        "height": 159,
+        "radius": null,
+        "points": []
+      },
+      "x": -59.30158730158746,
+      "y": 1066.5343915343915,
+      "elevation": 0,
+      "sort": 8,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Erin",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#98f09a",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "jUK8IAUPStgMQIAu",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 402,
+        "height": 138,
+        "radius": null,
+        "points": []
+      },
+      "x": 82,
+      "y": 1314,
+      "elevation": 0,
+      "sort": 9,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Rodri",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#dd7631",
+      "textAlpha": 0.8,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "1V5O6o51jYmjZ28X",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 405,
+        "height": 125,
+        "radius": null,
+        "points": []
+      },
+      "x": 3197.2169312169317,
+      "y": 401.33597883597884,
+      "elevation": 0,
+      "sort": 10,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Ara",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#3a4eb6",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "ZdwBtkK7UYXmjdGQ",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 407,
+        "height": 131,
+        "radius": null,
+        "points": []
+      },
+      "x": 3154,
+      "y": 831,
+      "elevation": 0,
+      "sort": 11,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Zyra",
+      "fontFamily": "Signika",
+      "fontSize": 100,
+      "textColor": "#ac10f4",
+      "textAlpha": 0.9,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "lmR8wde8L6ojM42m",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 435,
+        "height": 140,
+        "radius": null,
+        "points": []
+      },
+      "x": 3135.57671957672,
+      "y": 1029.9153439153438,
+      "elevation": 0,
+      "sort": 12,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Odracir",
+      "fontFamily": "Amiri",
+      "fontSize": 100,
+      "textColor": "#f77f1d",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "LT3ZDOelWEfE7O3F",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 365,
+        "height": 137,
+        "radius": null,
+        "points": []
+      },
+      "x": 1795.8148148148152,
+      "y": 2413.526455026455,
+      "elevation": 0,
+      "sort": 13,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Bestiario",
+      "fontFamily": "Amiri",
+      "fontSize": 83,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "dG0kqLt8qdAGXWt1",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 355,
+        "height": 256,
+        "radius": null,
+        "points": []
+      },
+      "x": 2761,
+      "y": 2228,
+      "elevation": 0,
+      "sort": 14,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "$$$",
+      "fontFamily": "Amiri",
+      "fontSize": 103,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    },
+    {
+      "_id": "ucCN2Z9L1r6oQ1Ax",
+      "author": "UZTkoMsSBeRY1Iom",
+      "shape": {
+        "type": "r",
+        "width": 668,
+        "height": 222,
+        "radius": null,
+        "points": []
+      },
+      "x": 794.1269841269841,
+      "y": 1619.9735449735451,
+      "elevation": 0,
+      "sort": 15,
+      "rotation": 0,
+      "bezierFactor": 0.5,
+      "fillType": 0,
+      "fillColor": "#ffffff",
+      "fillAlpha": 0.1,
+      "strokeWidth": 0,
+      "strokeColor": "#ffffff",
+      "strokeAlpha": 1,
+      "texture": null,
+      "text": "Misiones Realizadas",
+      "fontFamily": "Amiri",
+      "fontSize": 75,
+      "textColor": "#ffffff",
+      "textAlpha": 1,
+      "hidden": false,
+      "locked": false,
+      "interface": false,
+      "flags": {
+        "LockView": {
+          "boundingBox": "disabled"
+        },
+        "multilevel-tokens": {
+          "disabled": false,
+          "in": false,
+          "out": false,
+          "source": false,
+          "target": false,
+          "macroEnter": false,
+          "macroLeave": false,
+          "macroMove": false,
+          "level": false
+        }
+      }
+    }
+  ],
+  "tokens": [],
+  "lights": [
+    {
+      "_id": "Tlo6vBwWaLALsLeD",
+      "x": 1190,
+      "y": 634,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.95,
+        "angle": 360,
+        "bright": 3.22,
+        "color": "#efa34e",
+        "coloration": 1,
+        "dim": 6.45,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "flame",
+          "speed": 4,
+          "intensity": 4,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "lFgaDcD67vy44bpI",
+      "x": 2669,
+      "y": 239,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 37.78,
+        "color": null,
+        "coloration": 1,
+        "dim": 75.56,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": true,
+      "flags": {}
+    },
+    {
+      "_id": "ZzHsTdo3NGg2Ttjd",
+      "x": -36,
+      "y": 1449,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 40.33,
+        "color": null,
+        "coloration": 1,
+        "dim": 80.66,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    },
+    {
+      "_id": "5WqOoJVQ3ybqkGDE",
+      "x": 19,
+      "y": 1451,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 46.64,
+        "color": null,
+        "coloration": 1,
+        "dim": 93.29,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": true,
+      "flags": {}
+    },
+    {
+      "_id": "BUKjznsINg4yv2EO",
+      "x": 3974,
+      "y": 1652,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 39.05,
+        "color": null,
+        "coloration": 1,
+        "dim": 78.1,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": true,
+      "flags": {}
+    },
+    {
+      "_id": "VbgS2uqYUyZgXnzx",
+      "x": 2123,
+      "y": 3000,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 45.35,
+        "color": null,
+        "coloration": 1,
+        "dim": 90.71,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": true,
+      "flags": {}
+    },
+    {
+      "x": 3360,
+      "y": 684,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.95,
+        "angle": 360,
+        "bright": 3.22,
+        "color": "#efa34e",
+        "coloration": 1,
+        "dim": 6.45,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": "flame",
+          "speed": 4,
+          "intensity": 4,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {},
+      "_id": "dkQAnFZnsiAunEx8"
+    },
+    {
+      "_id": "jjZnKWniidwZ9S23",
+      "x": 1999,
+      "y": 1335,
+      "elevation": 0,
+      "rotation": 0,
+      "walls": true,
+      "vision": false,
+      "config": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 100,
+        "color": null,
+        "coloration": 1,
+        "dim": 200,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "hidden": false,
+      "flags": {}
+    }
+  ],
+  "notes": [],
+  "sounds": [],
+  "regions": [],
+  "templates": [],
+  "tiles": [
+    {
+      "x": 1672,
+      "y": 537,
+      "width": 1052,
+      "height": 637,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 0,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "scene",
+              "data": {
+                "imagefile": "Landing%20Page/Maps/Phandaling%20ia.jpeg",
+                "caption": "",
+                "showfor": "trigger",
+                "entity": {},
+                "for": "trigger",
+                "sceneid": {
+                  "id": "Scene.0fG00UQ90i8KE6Y5",
+                  "name": "Mapa"
+                },
+                "activate": false
+              },
+              "id": "hRRGeMJjAcY5ZhAr"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "UaSrUNCchRTCFlQW",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": 1079,
+      "y": 873,
+      "width": 396,
+      "height": 208,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 1,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "showimage",
+              "data": {
+                "imagefile": "Landing%20Page/IMG_9488.jpg",
+                "caption": "",
+                "showfor": "trigger"
+              },
+              "id": "iXuDGTjrsqdsHIgO"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "Y2ynx3rPAdDEpCtt",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": 1942,
+      "y": 1236,
+      "width": 970,
+      "height": 282,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 2,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "scene",
+              "data": {
+                "sceneid": {
+                  "id": "Scene.rZQwIUDN9ckIOJtv",
+                  "name": "Reglas"
+                },
+                "activate": false,
+                "for": "trigger"
+              },
+              "id": "etHr5kmxhsZGUb0T"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "GM0MWCbDfVHlJp7q",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": -21,
+      "y": 327,
+      "width": 546,
+      "height": 162,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 3,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": -1,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.KW39oaaiEHK1rjvX",
+                  "name": "ANARA"
+                },
+                "showto": "trigger"
+              },
+              "id": "IfzCD0rtaUSA3R4k"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "e2XUZawXSBFL6pxQ",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": -27,
+      "y": 580,
+      "width": 568,
+      "height": 147,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": -1,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.8C9SX0wZRuSJCdcR",
+                  "name": "BORIN"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "9yJycUUyCUSconlL",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": -1,
+      "y": 830,
+      "width": 497,
+      "height": 135,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.829vsKrMcJFLj4CL",
+                  "name": "ENDOR"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "VAIGb72kd9GNgRhh"
+    },
+    {
+      "x": 14,
+      "y": 1069,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.Dh0NfWEjPh1duqjo",
+                  "name": "Erin Stonheart"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "HpkD0sfq8HNittrK"
+    },
+    {
+      "x": 32,
+      "y": 1310,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": false,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.MluwJNMGE0xZYkM2",
+                  "name": "Rodri"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": true,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "9KFErhaHvBppfIq3"
+    },
+    {
+      "x": 3131,
+      "y": 384,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.ZYKzYeB3Q11VtBC8",
+                  "name": "ARA"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "KSlUMvUwxFnhsycJ"
+    },
+    {
+      "x": 3122,
+      "y": 815,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.Dw2GEM8usgykQcnH",
+                  "name": "ZYRA"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "QlNsZNM8t6VSU9yr"
+    },
+    {
+      "x": 2228,
+      "y": 1109,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.ZYKzYeB3Q11VtBC8",
+                  "name": "ARA"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "O3HYJOO8ftl1IMTJ"
+    },
+    {
+      "x": 3104,
+      "y": 1013,
+      "width": 496,
+      "height": 144,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 4,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": false,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.K6BoMVxVUQ1FBZ8s",
+                  "name": "Odracir"
+                },
+                "showto": "trigger"
+              },
+              "id": "l3FEZmLLE4wdcf78"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "_id": "F4nRLFZ0Y7s63nGS"
+    },
+    {
+      "x": 2727,
+      "y": 2272,
+      "width": 439,
+      "height": 259,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 5,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "Recompensas",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openjournal",
+              "data": {
+                "entity": {
+                  "id": "JournalEntry.KhZCN4Q75WLOVE9X",
+                  "name": "Banco $$$$"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "asimage": false,
+                "permission": "false",
+                "enhanced": false
+              },
+              "id": "8b5xZV7FDk0HcfLo"
+            },
+            {
+              "action": "playsound",
+              "data": {
+                "audiofile": "Landing%20Page/coins-clinking.m4a",
+                "audiofor": "trigger",
+                "volume": 1,
+                "loop": false,
+                "fade": 0.5,
+                "scenerestrict": false,
+                "prevent": false,
+                "delay": false,
+                "playlist": true
+              },
+              "id": "bzbZbPlPFYxKQKUr"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "cDGS7FZS5C0GYZC6",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": 1611,
+      "y": 2353,
+      "width": 624,
+      "height": 348,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 6,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "Mision Especial",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openjournal",
+              "data": {
+                "entity": {
+                  "id": "JournalEntry.6cILaoj0pJHInNiS",
+                  "name": "Bestiario"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "asimage": false,
+                "permission": "false",
+                "enhanced": false
+              },
+              "id": "ssEns1EScwuulyCA"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "yOwRSaWU9AITRAdF",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": 333,
+      "y": 2437,
+      "width": 417,
+      "height": 189,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 7,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "Draco",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": 0,
+          "actions": [
+            {
+              "action": "openactor",
+              "data": {
+                "entity": {
+                  "id": "Actor.7YbORKfIrdMb1eJe",
+                  "name": "DRACO"
+                },
+                "showto": "trigger"
+              },
+              "id": "MFFChzYxPTwMCE7V"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "MkPdStAStlDKSBSM",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    },
+    {
+      "x": 635,
+      "y": 1613,
+      "width": 985,
+      "height": 256,
+      "rotation": 0,
+      "elevation": 0,
+      "sort": 8,
+      "flags": {
+        "monks-active-tiles": {
+          "name": "",
+          "active": true,
+          "record": false,
+          "restriction": "all",
+          "controlled": "all",
+          "trigger": [
+            "click"
+          ],
+          "allowpaused": true,
+          "usealpha": true,
+          "pointer": true,
+          "vision": false,
+          "pertoken": false,
+          "minrequired": null,
+          "cooldown": null,
+          "chance": 100,
+          "fileindex": -1,
+          "actions": [
+            {
+              "action": "openjournal",
+              "data": {
+                "entity": {
+                  "id": "JournalEntry.Vq0vxTBeIbu0gEfQ",
+                  "name": "Misiones"
+                },
+                "page": "",
+                "subsection": "",
+                "showto": "trigger",
+                "asimage": false,
+                "permission": "true",
+                "enhanced": false
+              },
+              "id": "W55m8rsuiEgZ16WH"
+            }
+          ],
+          "files": []
+        }
+      },
+      "texture": {
+        "src": "Landing%20Page/transparent.png",
+        "scaleX": 1,
+        "scaleY": 1,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "rotation": 0,
+        "alphaThreshold": 0.75
+      },
+      "alpha": 1,
+      "occlusion": {
+        "mode": 0,
+        "alpha": 0
+      },
+      "restrictions": {
+        "light": false,
+        "weather": false
+      },
+      "_id": "EHn53Q95foMBuzvG",
+      "hidden": false,
+      "locked": false,
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      }
+    }
+  ],
+  "walls": [],
+  "playlist": "BInxiwvjeTrbnDCW",
+  "playlistSound": "CjIFwIBYvVaDKESf",
+  "journal": "LikJ3i4q5D6IlGxV",
+  "journalEntryPage": null,
+  "weather": "leaves",
+  "flags": {
+    "LockView": {
+      "locks": {
+        "pan": false,
+        "zoom": true,
+        "boundingBox": false
+      },
+      "ui": {
+        "hideOn": "off",
+        "scene-controls": false,
+        "hotbar": false,
+        "scene-navigation": false,
+        "players": false,
+        "sidebar": false,
+        "chat-notifications": false,
+        "camera-views": false
+      },
+      "sidebar": {
+        "sceneLoad": "noChange",
+        "exclude": true,
+        "blacken": true
+      },
+      "autoscale": "off",
+      "forceInitialView": false
+    },
+    "sequencer": {
+      "effects": [
+        [
+          "nLkqFUULO3L3V2gd",
+          {
+            "_id": "nLkqFUULO3L3V2gd",
+            "flagVersion": "3.2.1",
+            "sequenceId": "tksMqPuj1p9rY9Hd",
+            "creationTimestamp": 1756435307105,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 2746.1169309958855,
+              "y": 2283.539301062285,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 3105.7234124773668,
+              "y": 2446.9999492104334,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/2nd_Level/Divine_Smite/DivineSmiteReversed_01_Regular_BlueYellow_Caster_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "JAU2PNZ997FYBheK",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "ChO7mmVLR31QsdCM",
+          {
+            "_id": "ChO7mmVLR31QsdCM",
+            "flagVersion": "3.2.1",
+            "sequenceId": "Bk3qGEqh1cICYweE",
+            "creationTimestamp": 1756435525858,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 63.14608143381156,
+              "y": 457.2271531736933,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 427.3706184708485,
+              "y": 464.2410420625822,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Energy/EnergyBeam_03_Regular_BluePink_30ft_1600x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "3VgliWvNA09AbZfx",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "py5YkdVmaxT6iuCk",
+          {
+            "_id": "py5YkdVmaxT6iuCk",
+            "flagVersion": "3.2.1",
+            "sequenceId": "DeUprt8u2nhOOWUk",
+            "creationTimestamp": 1756435537857,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 27.659970322700474,
+              "y": 491.7410420625822,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 486.7803406930709,
+              "y": 494.7271531736933,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Energy/EnergyBeam_03_Regular_BluePink_30ft_1600x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "aRhr5FYJxu4ct7gB",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "0NHn1mnY2vrvF7EE",
+          {
+            "_id": "0NHn1mnY2vrvF7EE",
+            "flagVersion": "3.2.1",
+            "sequenceId": "pJEfVUUwnGzDat8b",
+            "creationTimestamp": 1756435620006,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 71.9302457301078,
+              "y": 746.6991983351746,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 464.62700498936715,
+              "y": 607.6251242611005,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Energy/EnergyStrandIN01_03_Regular_Green_600x600.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "7wKg8WhmdUoCROH9",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "GAjDrUSHk3DruH60",
+          {
+            "_id": "GAjDrUSHk3DruH60",
+            "flagVersion": "3.2.1",
+            "sequenceId": "h24wJXooDV4bJXDN",
+            "creationTimestamp": 1756435704548,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 55.42561610047824,
+              "y": 969.6968835203596,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 467.97191239677454,
+              "y": 965.8542909277672,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Energy/EnergyWall01_01_Regular_Orange_10x05ft_Loop_800x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "HCQ2VLOxHKuVWDqa",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "0wwcs2txcqRuofQL",
+          {
+            "_id": "0wwcs2txcqRuofQL",
+            "flagVersion": "3.2.1",
+            "sequenceId": "GulkvyPjw007vBbM",
+            "creationTimestamp": 1756435785843,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 3176.763442221765,
+              "y": 863.4216935683468,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 3537.318997777321,
+              "y": 876.0027120868654,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Energy/EnergyField_01_Regular_Blue_600x600.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "JI0GKsyGirWTP4AD",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "vE1oJ0WhDyJfJ2zc",
+          {
+            "_id": "vE1oJ0WhDyJfJ2zc",
+            "flagVersion": "3.2.1",
+            "sequenceId": "GbrIbo88qHBXBaUE",
+            "creationTimestamp": 1756435938359,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 1503.094460740284,
+              "y": 2655.296693568347,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 2345.513442221765,
+              "y": 2676.789749123902,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/1st_Level/Entangle/Entangle02_02_Regular_Green_500x500.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "aukY8IoYGgedumsD",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "mV3bDVkcpMmlJKgw",
+          {
+            "_id": "mV3bDVkcpMmlJKgw",
+            "flagVersion": "3.2.1",
+            "sequenceId": "39V6s6CYM9nzqtW3",
+            "creationTimestamp": 1756436259502,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 89.57629354055939,
+              "y": 1200.198172817358,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "fS9DDMxeE8naZp7i",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "sJfqxfY4n35d1DXt",
+          {
+            "_id": "sJfqxfY4n35d1DXt",
+            "flagVersion": "3.2.1",
+            "sequenceId": "UM8auzkchrCN54W8",
+            "creationTimestamp": 1756436259853,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 89.57629354055939,
+              "y": 1200.198172817358,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "R6jXxHRMFQCrR9fi",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "X7a00fg2gT5BsnnZ",
+          {
+            "_id": "X7a00fg2gT5BsnnZ",
+            "flagVersion": "3.2.1",
+            "sequenceId": "N3NYXbJRP2ptpK4E",
+            "creationTimestamp": 1756436260950,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 230.76842317018895,
+              "y": 1157.4782654099506,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "RGojaCZmYvSugtrl",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "1FHB6vqtnUrvacyO",
+          {
+            "_id": "1FHB6vqtnUrvacyO",
+            "flagVersion": "3.2.1",
+            "sequenceId": "UOGzpos27nSnkgAw",
+            "creationTimestamp": 1756436261773,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 381.84481205907787,
+              "y": 1161.4597468914321,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "G0FRhzmgl8W6x19R",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "iR40hQh0DpQfLmtH",
+          {
+            "_id": "iR40hQh0DpQfLmtH",
+            "flagVersion": "3.2.1",
+            "sequenceId": "9VBDcS6hX40Zk4gp",
+            "creationTimestamp": 1756436262451,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 404.06703428130004,
+              "y": 1143.0338209655063,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "gQHoMnB5jCfSlVjd",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "voBMEj1MBMzxhkCS",
+          {
+            "_id": "voBMEj1MBMzxhkCS",
+            "flagVersion": "3.2.1",
+            "sequenceId": "YNAyhOsLbUHrhX2j",
+            "creationTimestamp": 1756436263973,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 454.25221946648526,
+              "y": 1157.2699320766174,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": false,
+            "rotateTowards": null,
+            "stretchTo": false,
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Fireflies/Fireflies_01_Green_Few01_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": false,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "KomIZyvUehePFbxu",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "WMVmnJogLEittRs4",
+          {
+            "_id": "WMVmnJogLEittRs4",
+            "flagVersion": "3.2.1",
+            "sequenceId": "5DfWVlBlVkhLxJKY",
+            "creationTimestamp": 1756436606067,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 31.231386133152,
+              "y": 1387.7676172618023,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 216.2776824294483,
+              "y": 1386.448172817358,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/UI/IconHeart_01_Regular_Pink_200x200.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "Q7M2nxsbPuutTfkB",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "nnlCmIq0wXaUmb7l",
+          {
+            "_id": "nnlCmIq0wXaUmb7l",
+            "flagVersion": "3.2.1",
+            "sequenceId": "uB1IAk7WmY3E71V7",
+            "creationTimestamp": 1756436609355,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 406.0230527998185,
+              "y": 1378.9134505951358,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 586.4281453924111,
+              "y": 1376.4134505951358,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/UI/IconHeart_01_Regular_Pink_200x200.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "OyP6Vju1vQg1C3B7",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "4gih3mnZnT0xEzlT",
+          {
+            "_id": "4gih3mnZnT0xEzlT",
+            "flagVersion": "3.2.1",
+            "sequenceId": "2RQTlhZle7ukd3wQ",
+            "creationTimestamp": 1756436686606,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 3094.103149269613,
+              "y": 476.48256471844275,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 3328.3284124712845,
+              "y": 462.1430775807343,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/UI/IconHorror_01_Regular_Purple_200x200.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "flI1yzS8YP7vLbpS",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "L8WNLfQVECIIOY73",
+          {
+            "_id": "L8WNLfQVECIIOY73",
+            "flagVersion": "3.2.1",
+            "sequenceId": "J44L5qnGTKMfjJid",
+            "creationTimestamp": 1756436702538,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 3447.8903898163926,
+              "y": 454.2221623456773,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 3642.020038555145,
+              "y": 439.3214885935294,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/UI/IconHorror_01_Regular_Purple_200x200.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "Ha1FpDTh1InM2Uev",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "Lan0Koerv2fy86ou",
+          {
+            "_id": "Lan0Koerv2fy86ou",
+            "flagVersion": "3.2.1",
+            "sequenceId": "eJnGkPJZGfq3l9fx",
+            "creationTimestamp": 1756437438261,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 3045.415227682708,
+              "y": 1201.6974602481132,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 3679.8365239790046,
+              "y": 1235.4937565444093,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Smoke/SmokeLine_01_Regular_LightBlue_05x05ft_400x400.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "WQcwxPfZN4GBaYab",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ],
+        [
+          "SrYhYw4gFAtxBhrX",
+          {
+            "_id": "SrYhYw4gFAtxBhrX",
+            "flagVersion": "3.2.1",
+            "sequenceId": "apKnjV1JNOsDQedQ",
+            "creationTimestamp": 1756437953897,
+            "sceneId": "NUV7ERPRMULPKQ7x",
+            "creatorUserId": "UZTkoMsSBeRY1Iom",
+            "moduleName": "Sequencer",
+            "users": false,
+            "name": null,
+            "origin": null,
+            "index": 1,
+            "repetition": 0,
+            "private": null,
+            "temporary": false,
+            "tiedDocuments": [],
+            "source": {
+              "x": 1565.715289891344,
+              "y": 874.1301905185412,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "target": {
+              "x": 2745.1332793093334,
+              "y": 863.4820423703931,
+              "width": 100,
+              "height": 100,
+              "elevation": 0,
+              "cachedLocation": true
+            },
+            "rotateTowards": null,
+            "stretchTo": {
+              "attachTo": false,
+              "onlyX": false,
+              "requiresLineOfSight": false,
+              "hideLineOfSight": false
+            },
+            "moveTowards": false,
+            "attachTo": null,
+            "missed": null,
+            "file": "modules/JB2A_DnD5e/Library/Generic/Wind/WindStreams_01_White_20OPA_1200x1200.webm",
+            "customRange": false,
+            "forcedIndex": false,
+            "fileOptions": {
+              "antialiasing": 1
+            },
+            "text": null,
+            "tilingTexture": null,
+            "masks": [],
+            "shapes": [],
+            "volume": null,
+            "isometric": null,
+            "syncGroup": null,
+            "scale": {
+              "x": 1,
+              "y": 1
+            },
+            "spriteScale": {
+              "x": 1,
+              "y": 1
+            },
+            "angle": null,
+            "size": null,
+            "offset": null,
+            "anchor": null,
+            "spriteOffset": null,
+            "spriteAnchor": null,
+            "template": null,
+            "zeroSpriteRotation": null,
+            "randomOffset": {
+              "source": false,
+              "target": false
+            },
+            "randomRotation": null,
+            "scaleToObject": null,
+            "elevation": null,
+            "sortLayer": 800,
+            "aboveLighting": null,
+            "aboveInterface": null,
+            "xray": null,
+            "zIndex": null,
+            "opacity": 1,
+            "filters": null,
+            "loopOptions": null,
+            "spriteRotation": 0,
+            "randomSpriteRotation": false,
+            "flipX": false,
+            "flipY": false,
+            "duration": false,
+            "persist": true,
+            "persistOptions": {
+              "id": "4ukGYrv4T4XUYLRT",
+              "persistTokenPrototype": false
+            },
+            "playbackRate": null,
+            "extraEndDuration": null,
+            "time": false,
+            "moves": null,
+            "moveSpeed": null,
+            "fadeIn": null,
+            "fadeOut": null,
+            "scaleIn": null,
+            "scaleOut": null,
+            "rotateIn": null,
+            "rotateOut": null,
+            "fadeInAudio": null,
+            "fadeOutAudio": null,
+            "animations": null,
+            "screenSpace": null,
+            "screenSpaceAboveUI": null,
+            "screenSpaceAnchor": null,
+            "screenSpacePosition": null,
+            "screenSpaceScale": null,
+            "nameOffsetMap": false
+          }
+        ]
+      ]
+    },
+    "weather-color-settings": {
+      "color-fog": "",
+      "color-rain": "",
+      "color-snow": ""
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.348",
+    "systemId": "dnd5e",
+    "systemVersion": "5.1.2",
+    "createdTime": 1755889359786,
+    "modifiedTime": 1758427818545,
+    "lastModifiedBy": "UZTkoMsSBeRY1Iom",
+    "exportSource": {
+      "worldId": "crazy-dragons-2",
+      "uuid": "Scene.NUV7ERPRMULPKQ7x",
+      "coreVersion": "13.348",
+      "systemId": "dnd5e",
+      "systemVersion": "5.1.8"
+    }
+  },
+  "navName": "",
+  "ownership": {
+    "default": 0
+  }
+}

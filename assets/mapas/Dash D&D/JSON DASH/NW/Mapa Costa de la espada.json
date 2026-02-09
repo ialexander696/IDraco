@@ -1,0 +1,256 @@
+{
+  "folder": "wvYUyGKBvKKtfaLw",
+  "name": "Mapa",
+  "navigation": false,
+  "navOrder": 0,
+  "background": {
+    "src": "MAPS/Never%20winter/Mapa%20Costa%20de%20la%20espada.png",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 47,
+    "offsetY": 32,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": null,
+  "thumb": "worlds/crazy-dragons-2/assets/scenes/0fG00UQ90i8KE6Y5-thumb.webp",
+  "width": 3244,
+  "height": 2318,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
+  "backgroundColor": "#272d1b",
+  "grid": {
+    "type": 3,
+    "size": 107,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": false,
+  "fog": {
+    "exploration": false,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": false,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "CD",
+      "displayName": 0,
+      "actorLink": true,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/cd.Token.webp?1755461212463",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "lockRotation": false,
+      "rotation": 180,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": false,
+        "range": 0,
+        "angle": 360,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "brightness": 0,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "flags": {},
+      "actorId": "UMISF3G4gZWRt3Oy",
+      "hidden": false,
+      "sort": 0,
+      "shape": 0,
+      "_id": "0pwd0OUirx4Uj3e7",
+      "delta": {
+        "_id": "0pwd0OUirx4Uj3e7",
+        "system": {},
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null,
+        "items": [],
+        "effects": []
+      },
+      "x": 2515,
+      "y": 2317,
+      "elevation": 0,
+      "locked": false,
+      "_movementHistory": [],
+      "_regions": []
+    }
+  ],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "regions": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "LockView": {
+      "locks": {
+        "pan": false,
+        "zoom": false,
+        "boundingBox": false
+      },
+      "ui": {
+        "hideOn": "off",
+        "scene-controls": false,
+        "hotbar": false,
+        "scene-navigation": false,
+        "players": false,
+        "sidebar": false,
+        "chat-notifications": false,
+        "camera-views": false
+      },
+      "sidebar": {
+        "sceneLoad": "noChange",
+        "exclude": false,
+        "blacken": false
+      },
+      "autoscale": "off",
+      "forceInitialView": false
+    }
+  },
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": "dnd5e",
+    "systemVersion": "5.1.2",
+    "createdTime": 1755889777645,
+    "modifiedTime": 1756235353634,
+    "lastModifiedBy": "UZTkoMsSBeRY1Iom",
+    "exportSource": {
+      "worldId": "crazy-dragons-2",
+      "uuid": "Scene.0fG00UQ90i8KE6Y5",
+      "coreVersion": "13.348",
+      "systemId": "dnd5e",
+      "systemVersion": "5.1.8"
+    }
+  },
+  "navName": "",
+  "ownership": {
+    "default": 0
+  }
+}

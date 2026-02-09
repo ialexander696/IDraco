@@ -1,0 +1,5680 @@
+{
+  "name": "Bolton Hexworth",
+  "folder": "xiz3lZFpdWCMx2Vx",
+  "type": "character",
+  "img": "https://assets.forge-vtt.com/689a8922d82c15ca4b48a05e/tokenizer/pc-images/bolton_hexworth.Avatar.webp?1764818012346",
+  "system": {
+    "currency": {
+      "pp": 0,
+      "gp": 70,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "abilities": {
+      "str": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 13,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 15,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 17,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 12,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 8,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      }
+    },
+    "tools": {
+      "alchemist": {
+        "value": 1,
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "mason": {
+        "value": 1,
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "woodcarver": {
+        "value": 1,
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "leatherworker": {
+        "value": 1,
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "tinker": {
+        "value": 1,
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "thief": {
+        "value": 1,
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      },
+      "carpenter": {
+        "value": 1,
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "check": ""
+        }
+      }
+    },
+    "spells": {
+      "spell1": {
+        "value": 0
+      },
+      "spell2": {
+        "value": 0
+      },
+      "spell3": {
+        "value": 0
+      },
+      "spell4": {
+        "value": 0
+      },
+      "spell5": {
+        "value": 0
+      },
+      "spell6": {
+        "value": 0
+      },
+      "spell7": {
+        "value": 0
+      },
+      "spell8": {
+        "value": 0
+      },
+      "spell9": {
+        "value": 0
+      },
+      "pact": {
+        "value": 0
+      }
+    },
+    "attributes": {
+      "ac": {
+        "calc": "default",
+        "flat": null
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonus": ""
+      },
+      "movement": {
+        "units": null,
+        "hover": false,
+        "ignoredDifficultTerrain": []
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "darkvision": null,
+        "blindsight": null,
+        "tremorsense": null,
+        "truesight": null,
+        "units": null,
+        "special": ""
+      },
+      "spellcasting": "int",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "save": ""
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hp": {
+        "max": null,
+        "temp": 0,
+        "tempmax": 0,
+        "value": 3,
+        "bonuses": {}
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0,
+        "bonuses": {
+          "save": ""
+        }
+      },
+      "inspiration": false
+    },
+    "bastion": {
+      "name": "",
+      "description": ""
+    },
+    "details": {
+      "biography": {
+        "value": "",
+        "public": ""
+      },
+      "alignment": "",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": "evQwh8tcoAhdlUav",
+      "background": "dTWxchZ8xdO3p3uK",
+      "originalClass": "LxQwX4DGD7tRBKFU",
+      "xp": {
+        "value": 124
+      },
+      "appearance": "",
+      "trait": "",
+      "eyes": "",
+      "height": "",
+      "faith": "",
+      "hair": "",
+      "weight": "",
+      "gender": "",
+      "skin": "",
+      "age": ""
+    },
+    "traits": {
+      "size": "sm",
+      "di": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dr": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dv": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common",
+          "gnomish",
+          "draconic"
+        ],
+        "custom": "",
+        "communication": {}
+      },
+      "weaponProf": {
+        "value": [
+          "sim"
+        ],
+        "custom": "",
+        "mastery": {
+          "value": [],
+          "bonus": []
+        }
+      },
+      "armorProf": {
+        "value": [
+          "lgt",
+          "med",
+          "shl"
+        ],
+        "custom": ""
+      }
+    },
+    "resources": {
+      "primary": {
+        "value": 0,
+        "max": 0,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      },
+      "secondary": {
+        "value": 0,
+        "max": 0,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      },
+      "tertiary": {
+        "value": 0,
+        "max": 0,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      }
+    },
+    "favorites": []
+  },
+  "prototypeToken": {
+    "name": "Bolton Hexwoth",
+    "displayName": 50,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/tokenizer/pc-images/bolton_hexworth.Token.webp?1764818012346",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 0,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {
+      "monks-tokenbar": {
+        "include": "default"
+      },
+      "healthEstimate": {
+        "dontMarkDead": false,
+        "hideHealthEstimate": false,
+        "hideName": false
+      }
+    },
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "items": [
+    {
+      "_id": "evQwh8tcoAhdlUav",
+      "name": "Gnome, Rock",
+      "type": "race",
+      "img": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/modules/dnd-players-handbook/assets/icons/species/gnome-rock.webp",
+      "system": {
+        "description": {
+          "value": "<p>Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes’ secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.</p><p>Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of a roof over their head, even if that “roof” is nothing more than a hat.</p><h3 data-anchor=\"gnome-traits\">Gnome Traits</h3><p><strong>Creature Type: </strong>Humanoid</p><p><strong>Size: </strong>Small (about 3–4 feet tall)</p><p><strong>Speed:</strong> 30 feet</p><p>As a Gnome, you have these special traits.</p><p><strong>Darkvision. </strong>You have Darkvision with a range of 60 feet.</p><p><strong>Gnomish Cunning.</strong> You have Advantage on Intelligence, Wisdom, and Charisma saving throws.</p><p><strong>Gnomish Lineage.</strong> You are part of a lineage that grants you supernatural abilities. Whichever lineage you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):</p><p><strong>Rock Gnome.</strong> You know the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{Mending} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{Prestidigitation} cantrips. In addition, you can spend 10 minutes casting <em>Prestidigitation</em> to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from <em>Prestidigitation</em>; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell’s ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn’t do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.</p>",
+          "chat": ""
+        },
+        "source": {
+          "revision": 1,
+          "rules": "2024",
+          "custom": ""
+        },
+        "advancement": [
+          {
+            "_id": "O7gYRGMSW3atQ2Yc",
+            "type": "Size",
+            "configuration": {
+              "sizes": [
+                "sm"
+              ]
+            },
+            "level": 0,
+            "title": "",
+            "hint": "Small (about 3-4 feet tall)",
+            "value": {
+              "size": "sm"
+            }
+          },
+          {
+            "_id": "LcGnqnqKYFw0PcE9",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "optional": false,
+                  "uuid": "Compendium.dnd-players-handbook.origins.Item.phbsptGnomishCun"
+                },
+                {
+                  "optional": false,
+                  "uuid": "Compendium.dnd-players-handbook.origins.Item.phbsptRockGnomeL"
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {
+              "added": {
+                "yXf8xmCKm7dMgR13": "Compendium.dnd-players-handbook.origins.Item.phbsptGnomishCun",
+                "7GB30EfJkANEeBNT": "Compendium.dnd-players-handbook.origins.Item.phbsptRockGnomeL"
+              }
+            },
+            "level": 0,
+            "title": "Gnome Traits",
+            "hint": ""
+          },
+          {
+            "_id": "RNvJhB97kaJrZTfU",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "optional": false,
+                  "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplMending000"
+                },
+                {
+                  "optional": false,
+                  "uuid": "Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi"
+                }
+              ],
+              "optional": false,
+              "spell": {
+                "ability": [
+                  "int",
+                  "wis",
+                  "cha"
+                ],
+                "uses": {
+                  "max": "",
+                  "per": "",
+                  "requireSlot": false
+                },
+                "method": "spell",
+                "prepared": 2
+              }
+            },
+            "value": {
+              "ability": "int",
+              "added": {
+                "0UKIjw0nkc0TWZJ3": "Compendium.dnd-players-handbook.spells.Item.phbsplMending000",
+                "jdvFKJs4ma1Nd4AR": "Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi"
+              }
+            },
+            "level": 0,
+            "title": "Rock Gnome Traits",
+            "hint": "Intelligence, Wisdom, or Charisma can be chosen for your spellcasting ability."
+          }
+        ],
+        "movement": {
+          "walk": "30",
+          "units": null,
+          "hover": false,
+          "ignoredDifficultTerrain": []
+        },
+        "senses": {
+          "darkvision": 60,
+          "blindsight": null,
+          "tremorsense": null,
+          "truesight": null,
+          "units": null,
+          "special": ""
+        },
+        "type": {
+          "value": "humanoid",
+          "subtype": "Gnome",
+          "custom": ""
+        },
+        "identifier": "gnome-rock"
+      },
+      "effects": [],
+      "folder": "Ulvo8nbygUegLa59",
+      "flags": {
+        "dnd5e": {},
+        "scene-packer": {
+          "hash": "e289905ed03c65ba28b4a1c2713e47ca39bdcff2"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.origins.Item.phbspRockGnome00",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764812500600,
+        "modifiedTime": 1764812500600,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "yXf8xmCKm7dMgR13",
+      "name": "Gnomish Cunning",
+      "type": "feat",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/light/hand-sparks-glow-yellow.webp",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "description": {
+          "value": "<p>You have Advantage on Intelligence, Wisdom, and Charisma saving throws.</p>",
+          "chat": ""
+        },
+        "source": {
+          "revision": 2,
+          "rules": "2024",
+          "book": "",
+          "page": "",
+          "custom": "",
+          "license": ""
+        },
+        "enchant": {},
+        "type": {
+          "value": "race",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "Gnome",
+        "identifier": "gnomish-cunning",
+        "advancement": [],
+        "crewed": false
+      },
+      "effects": [
+        {
+          "name": "Gnomish Cunning",
+          "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+          "origin": "Compendium.dnd-players-handbook.origins.Item.phbsptGnomishCun",
+          "_id": "KNWLGPsZSHtINp6L",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.abilities.int.save.roll.mode",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            },
+            {
+              "key": "system.abilities.wis.save.roll.mode",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            },
+            {
+              "key": "system.abilities.cha.save.roll.mode",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": 42,
+            "combat": null,
+            "seconds": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "<p>You have Advantage on Intelligence, Wisdom, and Charisma saving throws.</p>",
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {
+            "dnd5e": {
+              "riders": {
+                "statuses": []
+              }
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.2.1",
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "folder": "e9Bx86LUj7rJMszu",
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-players-handbook.origins.Item.phbsptGnomishCun",
+          "advancementOrigin": "evQwh8tcoAhdlUav.LcGnqnqKYFw0PcE9",
+          "advancementRoot": "evQwh8tcoAhdlUav.LcGnqnqKYFw0PcE9"
+        },
+        "scene-packer": {
+          "hash": "1e595888774c865a62b11058509e4443af83e509"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.origins.Item.phbsptGnomishCun",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764812500600,
+        "modifiedTime": 1764812500600,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7GB30EfJkANEeBNT",
+      "name": "Gnomish Lineage, Rock",
+      "type": "feat",
+      "img": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/modules/dnd-players-handbook/assets/icons/species/gnome-rock.webp",
+      "system": {
+        "activities": {},
+        "uses": {
+          "spent": 0,
+          "recovery": [],
+          "max": ""
+        },
+        "description": {
+          "value": "<p>You know the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{Mending} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{Prestidigitation} cantrips. In addition, you can spend 10 minutes casting <em>Prestidigitation</em> to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from <em>Prestidigitation</em>; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell’s ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn’t do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.</p>",
+          "chat": ""
+        },
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "enchant": {},
+        "type": {
+          "value": "race",
+          "subtype": ""
+        },
+        "prerequisites": {
+          "level": null,
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "Gnome (Rock)",
+        "identifier": "gnomish-lineage-rock",
+        "advancement": [],
+        "crewed": false
+      },
+      "effects": [],
+      "folder": "e9Bx86LUj7rJMszu",
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-players-handbook.origins.Item.phbsptRockGnomeL",
+          "advancementOrigin": "evQwh8tcoAhdlUav.LcGnqnqKYFw0PcE9",
+          "advancementRoot": "evQwh8tcoAhdlUav.LcGnqnqKYFw0PcE9"
+        },
+        "scene-packer": {
+          "hash": "c82a55be28d8b5086b48e956be1d8fb7d508b328"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.origins.Item.phbsptRockGnomeL",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764812500600,
+        "modifiedTime": 1764812500600,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Mending",
+      "system": {
+        "description": {
+          "value": "<p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.</p><p>This spell can physically repair a magic item, but it can’t restore magic to such an object.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "activation": {
+          "type": "minute",
+          "condition": "",
+          "value": 1
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "choice": false,
+            "count": "1",
+            "type": "object",
+            "special": ""
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false,
+            "type": ""
+          }
+        },
+        "range": {
+          "units": "touch",
+          "special": ""
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "level": 0,
+        "school": "trs",
+        "properties": [
+          "vocal",
+          "somatic",
+          "material"
+        ],
+        "materials": {
+          "value": "two lodestones",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "KWnXo7varYgjCDuk": {
+            "type": "utility",
+            "_id": "KWnXo7varYgjCDuk",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "name": "",
+              "formula": ""
+            },
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "mending",
+        "method": "spell",
+        "prepared": 2,
+        "ability": "int"
+      },
+      "_id": "0UKIjw0nkc0TWZJ3",
+      "type": "spell",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/commodities/metal/barstock-broken-steel.webp",
+      "effects": [],
+      "folder": "4FhsY9FJQd7h7MZb",
+      "sort": 900000,
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-players-handbook.spells.Item.phbsplMending000",
+          "advancementOrigin": "evQwh8tcoAhdlUav.RNvJhB97kaJrZTfU",
+          "advancementRoot": "evQwh8tcoAhdlUav.RNvJhB97kaJrZTfU"
+        },
+        "scene-packer": {
+          "hash": "986f68478476e400771ed0c275d429bae151bb35"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.spells.Item.phbsplMending000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764812500600,
+        "modifiedTime": 1764813028065,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Prestidigitation",
+      "system": {
+        "description": {
+          "value": "<p>You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.</p><p><strong>Sensory Effect.</strong> You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</p><p><strong>Fire Play.</strong> You instantaneously light or snuff out a candle, a torch, or a small campfire.</p><p><strong>Clean or Soil.</strong> You instantaneously clean or soil an object no larger than 1 cubic foot.</p><p><strong>Minor Sensation.</strong> You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</p><p><strong>Magic Mark.</strong> You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</p><p><strong>Minor Creation.</strong> You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "activation": {
+          "type": "action",
+          "condition": "",
+          "value": null
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour"
+        },
+        "target": {
+          "affects": {
+            "choice": false,
+            "count": "",
+            "type": ""
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false,
+            "type": ""
+          }
+        },
+        "range": {
+          "units": "ft",
+          "special": "",
+          "value": "10"
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "level": 0,
+        "school": "trs",
+        "properties": [
+          "vocal",
+          "somatic"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "gbdxQQmWwEAL1zpH": {
+            "type": "utility",
+            "name": "",
+            "_id": "gbdxQQmWwEAL1zpH",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {},
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false
+            },
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "prestidigitation",
+        "method": "spell",
+        "prepared": 2,
+        "ability": "int"
+      },
+      "_id": "jdvFKJs4ma1Nd4AR",
+      "type": "spell",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/weapons/wands/wand-star-white.webp",
+      "effects": [],
+      "folder": "4FhsY9FJQd7h7MZb",
+      "sort": 400000,
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi",
+          "advancementOrigin": "evQwh8tcoAhdlUav.RNvJhB97kaJrZTfU",
+          "advancementRoot": "evQwh8tcoAhdlUav.RNvJhB97kaJrZTfU"
+        },
+        "scene-packer": {
+          "hash": "72acba57916422a3703032b9495e0ff2cad3475c"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764812500600,
+        "modifiedTime": 1764813028065,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Artisan",
+      "system": {
+        "description": {
+          "value": "<p><strong>Ability Scores:</strong> Strength, Dexterity, Intelligence</p><p><strong>Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000]{Crafter}</p><p><strong>Skill Proficiencies:</strong> Investigation and Persuasion</p><p><strong>Tool Proficiency:</strong> <em>Choose one kind of</em> <em>Artisan’s Tools</em> (see chapter 6)</p><p><strong>Equipment:</strong> <em>Choose A or B:</em> (A) Artisan’s Tools (same as above), 2 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagPouch000000]{Pouches}, @UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{Traveler's Clothes}, 32 GP; or (B) 50 GP</p><p>You began mopping floors and scrubbing counters in an artisan’s workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. Your trade has also given you a keen eye for detail.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "startingEquipment": [
+          {
+            "type": "AND",
+            "requiresProficiency": false,
+            "_id": "gr0uYcbQr89O7mN6",
+            "group": "",
+            "sort": 100000
+          },
+          {
+            "type": "tool",
+            "count": null,
+            "key": "art",
+            "requiresProficiency": false,
+            "_id": "KbIeratTBV3yN9KE",
+            "group": "gr0uYcbQr89O7mN6",
+            "sort": 200000
+          },
+          {
+            "type": "linked",
+            "count": 2,
+            "key": "Compendium.dnd-players-handbook.equipment.Item.phbagPouch000000",
+            "requiresProficiency": false,
+            "_id": "TuJ6hGX75w4wyDex",
+            "group": "gr0uYcbQr89O7mN6",
+            "sort": 300000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd-players-handbook.equipment.Item.phbagClothesTrav",
+            "requiresProficiency": false,
+            "_id": "b8fVSI3udVMlZgHR",
+            "group": "gr0uYcbQr89O7mN6",
+            "sort": 400000
+          }
+        ],
+        "identifier": "artisan",
+        "advancement": [
+          {
+            "_id": "sB8CeTRZcjZReVFW",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "skills:inv",
+                "skills:per"
+              ],
+              "choices": [
+                {
+                  "count": 1,
+                  "pool": [
+                    "tool:art:*"
+                  ]
+                }
+              ]
+            },
+            "value": {
+              "chosen": [
+                "skills:inv",
+                "skills:per",
+                "tool:art:alchemist"
+              ]
+            },
+            "level": 0,
+            "title": "Background Proficiencies",
+            "hint": "Your background grants you proficiency in Investigation and Persuasion. It also grants you proficiency in one kind of Artisan's Tools."
+          },
+          {
+            "_id": "yepxK82qt9QhQB7F",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "optional": false,
+                  "uuid": "Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000"
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {
+              "added": {
+                "f2RY0l5Ff2CrK1CZ": "Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000"
+              }
+            },
+            "level": 0,
+            "title": "Background Feat",
+            "hint": "Your background grants you the Crafter feat."
+          },
+          {
+            "_id": "gP0ydAl6jcUpDlBI",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "cap": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "locked": [
+                "con",
+                "wis",
+                "cha"
+              ],
+              "points": 3,
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi",
+              "assignments": {}
+            },
+            "level": 0,
+            "title": "Background Ability Score Improvement",
+            "hint": "Your background allows you to increase your Strength, Dexterity, and Intelligence scores; increase one of them by 2 and a different one by 1, or increase all three by 1. None of these increases can raise a score above 20."
+          },
+          {
+            "_id": "56kbaxXJOHLN7UZS",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "languages:standard:common"
+              ],
+              "choices": [
+                {
+                  "count": 2,
+                  "pool": [
+                    "languages:standard:*"
+                  ]
+                }
+              ]
+            },
+            "value": {
+              "chosen": [
+                "languages:standard:common",
+                "languages:standard:gnomish",
+                "languages:exotic:draconic"
+              ]
+            },
+            "level": 0,
+            "title": "Choose Languages",
+            "hint": "Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table."
+          }
+        ],
+        "wealth": "50"
+      },
+      "_id": "dTWxchZ8xdO3p3uK",
+      "type": "background",
+      "img": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/modules/dnd-players-handbook/assets/icons/backgrounds/artisan.webp",
+      "effects": [],
+      "folder": "ysJSs3cbEBOMC1zV",
+      "sort": 200000,
+      "flags": {
+        "dnd5e": {},
+        "scene-packer": {
+          "hash": "8bec9fee8223c6571c9c82e24a9617ec7a9b3b81"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.origins.Item.phbbgArtisan0000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764813028051,
+        "modifiedTime": 1764813028051,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Crafter",
+      "system": {
+        "description": {
+          "value": "<p>You gain the following benefits.</p><p><strong>Tool Proficiency.</strong> You gain proficiency with three different Artisan’s Tools of your choice from the Fast Crafting table.</p><p><strong>Discount.</strong> Whenever you buy a nonmagical item, you receive a 20 percent discount on it.</p><p><strong>Fast Crafting.</strong> When you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan’s Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.</p><table><caption>Fast Crafting</caption><thead><tr><td>Artisan’s Tools</td><td>Crafted Gear</td></tr></thead><tbody><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCarpenters]{Carpenter’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagLadder00000]{Ladder}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagTorch000000]{Torch}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulLeatherwor]{Leatherworker’s Tools}</td><td>Case, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagPouch000000]{Pouch}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulMasonsTool]{Mason’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBlockandTac]{Block and Tackle}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulPottersToo]{Potter’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagJug00000000]{Jug}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagLamp0000000]{Lamp}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulSmithsTool]{Smith’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBallBearing]{Ball Bearings}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBucket00000]{Bucket}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagCaltrops000]{Caltrops}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagGrapplingHo]{Grappling Hook}, @UUID[Compendium.dnd5e.items.Item.M8xM8BLK4tpUayEE]{Iron Pot}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulTinkersToo]{Tinker’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBell0000000]{Bell}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagShovel00000]{Shovel}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagTinderbox00]{Tinderbox}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulWeaversToo]{Weaver’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBasket00000]{Basket}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRope0000000]{Rope}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagNet00000000]{Net}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagTent0000000]{Tent}</td></tr><tr><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulWoodcarver]{Woodcarver’s Tools}</td><td>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepClub000000]{Club}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepGreatclub0]{Greatclub}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{Quarterstaff}</td></tr></tbody></table>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "book": "",
+          "page": "",
+          "license": "",
+          "revision": 2
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "feat",
+          "subtype": "origin"
+        },
+        "prerequisites": {
+          "level": null,
+          "items": [],
+          "repeatable": false
+        },
+        "properties": [],
+        "requirements": "",
+        "activities": {},
+        "enchant": {},
+        "identifier": "crafter",
+        "advancement": [
+          {
+            "type": "Trait",
+            "_id": "8pm3HRuP68mTqdYt",
+            "configuration": {
+              "allowReplacements": false,
+              "choices": [
+                {
+                  "count": 3,
+                  "pool": [
+                    "tool:art:carpenter",
+                    "tool:art:leatherworker",
+                    "tool:art:mason",
+                    "tool:art:potter",
+                    "tool:art:smith",
+                    "tool:art:tinker",
+                    "tool:art:weaver",
+                    "tool:art:woodcarver"
+                  ]
+                }
+              ],
+              "grants": [],
+              "mode": "default"
+            },
+            "level": 0,
+            "title": "Tool Proficiency",
+            "hint": "You gain proficiency with three different Artisan’s Tools of your choice from the Fast Crafting table.",
+            "value": {
+              "chosen": [
+                "tool:art:mason",
+                "tool:art:woodcarver",
+                "tool:art:leatherworker"
+              ]
+            }
+          }
+        ],
+        "crewed": false
+      },
+      "_id": "f2RY0l5Ff2CrK1CZ",
+      "type": "feat",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/tools/hand/hammer-and-nail.webp",
+      "effects": [],
+      "folder": "d5jrO8A6QpjEV9rn",
+      "sort": 200000,
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000",
+          "advancementOrigin": "dTWxchZ8xdO3p3uK.yepxK82qt9QhQB7F",
+          "advancementRoot": "dTWxchZ8xdO3p3uK.yepxK82qt9QhQB7F"
+        },
+        "scene-packer": {
+          "hash": "092e77a0ce985a4492b7c4419bd3a5a7af4de15f"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764813028051,
+        "modifiedTime": 1764813028051,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "LxQwX4DGD7tRBKFU",
+      "name": "Artificer",
+      "type": "class",
+      "img": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/modules/dnd-tashas-cauldron/assets/symbols/artificer-icon.webp",
+      "system": {
+        "description": {
+          "value": "<p>As an artificer, you gain the following class features.</p><h3>Hit Points</h3><p><strong>Hit Dice:</strong> 1d8 per artificer level<br /><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per artificer level after 1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor, medium armor, shields<br /><strong>Weapons:</strong> Simple weapons<br /><strong>Tools:</strong> Thieves' Tools, tinker's tools, one type of artisan's tools of your choice<br /><strong>Saving Throws:</strong> Constitution, Intelligence<br /><strong>Skills:</strong> Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand</p><h3>Equipment</h3><p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul><li>any two simple weapons of your choice</li><li>a light crossbow and 20 bolts</li><li>your choice of studded leather armor or scale mail</li><li>thieves' tools and a dungeoneer's pack</li></ul><p>The secrets of gunpowder weapons have been discovered in various corners of the D&amp;D multiverse. If your Dungeon Master uses the rules on firearms in the Dungeon Master’s Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.</p><p>If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 × 10 gp to buy your equipment.</p><aside class=\"notable\"><h3>Multiclassing and the Artificer</h3><p>If your group uses the optional rule on multiclassing in the Player’s Handbook, here’s what you need to know if you choose artificer as one of your classes.</p><p><strong>Ability Score Minimum.</strong> As a multiclass character, you must have at least an Intelligence score of 13 to take a level in this class, or to take a level in another class if you are already an artificer.</p><p><strong>Proficiencies Gained.</strong> If artificer isn’t your initial class, here are the proficiencies you gain when you take your first level as an artificer: light armor, medium armor, shields, thieves’ tools, tinker’s tools.</p><p><strong>Spell Slots.</strong> Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.</p></aside><h2>Artificer Advancement</h2><table><thead><tr><td><p>Level</p></td><td><p>Proficiency Bonus</p></td><td><p>Class Features</p></td><td><p>Infusions Known</p></td><td><p>Infused Items</p></td><td><p>Cantrips Known</p></td><td><p>1st</p></td><td><p>2nd</p></td><td><p>3rd</p></td><td><p>4th</p></td><td><p>5th</p></td></tr></thead><tbody><tr><td><p>1st</p></td><td><p>+2</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartMagicalTi]{Magical Tinkering}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellcast]{Spellcasting}</p></td><td><p>—</p></td><td><p>—</p></td><td><p>2</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>2nd</p></td><td><p>+2</p></td><td><p>Infuse Item</p></td><td><p>4</p></td><td><p>2</p></td><td><p>2</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>3rd</p></td><td><p>+2</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpecialis]{Artificer Specialist}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartTheRightT]{The Right Tool for the Job}</p></td><td><p>4</p></td><td><p>2</p></td><td><p>2</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>4th</p></td><td><p>+2</p></td><td><p>Ability Score Improvement</p></td><td><p>4</p></td><td><p>2</p></td><td><p>2</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>5th</p></td><td><p>+3</p></td><td><p>Artificer Specialist feature</p></td><td><p>4</p></td><td><p>2</p></td><td><p>2</p></td><td><p>4</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>6th</p></td><td><p>+3</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartToolExper]{Tool Expertise}</p></td><td><p>6</p></td><td><p>3</p></td><td><p>2</p></td><td><p>4</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>7th</p></td><td><p>+3</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartFlashOfGe]{Flash of Genius}</p></td><td><p>6</p></td><td><p>3</p></td><td><p>2</p></td><td><p>4</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>8th</p></td><td><p>+3</p></td><td><p>Ability Score Improvement</p></td><td><p>6</p></td><td><p>3</p></td><td><p>2</p></td><td><p>4</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>9th</p></td><td><p>+4</p></td><td><p>Artificer Specialist feature</p></td><td><p>6</p></td><td><p>3</p></td><td><p>2</p></td><td><p>4</p></td><td><p>3</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>10th</p></td><td><p>+4</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeAdeptMagicIt]{Magic Item Adept}</p></td><td><p>8</p></td><td><p>4</p></td><td><p>3</p></td><td><p>4</p></td><td><p>3</p></td><td><p>2</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>11th</p></td><td><p>+4</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellstor]{Spell-Storing Item}</p></td><td><p>8</p></td><td><p>4</p></td><td><p>3</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>12th</p></td><td><p>+4</p></td><td><p>Ability Score Improvement</p></td><td><p>8</p></td><td><p>4</p></td><td><p>3</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>—</p></td><td><p>—</p></td></tr><tr><td><p>13th</p></td><td><p>+5</p></td><td><p>—</p></td><td><p>8</p></td><td><p>4</p></td><td><p>3</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>1</p></td><td><p>—</p></td></tr><tr><td><p>14th</p></td><td><p>+5</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSavantMagicI]{Magic Item Savant}</p></td><td><p>10</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>1</p></td><td><p>—</p></td></tr><tr><td><p>15th</p></td><td><p>+5</p></td><td><p>Artificer Specialist feature</p></td><td><p>10</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>2</p></td><td><p>—</p></td></tr><tr><td><p>16th</p></td><td><p>+5</p></td><td><p>Ability Score Improvement</p></td><td><p>10</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>2</p></td><td><p>—</p></td></tr><tr><td><p>17th</p></td><td><p>+6</p></td><td><p>—</p></td><td><p>10</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>3</p></td><td><p>1</p></td></tr><tr><td><p>18th</p></td><td><p>+6</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeMagicItemMas]{Magic Item Master}</p></td><td><p>12</p></td><td><p>6</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>3</p></td><td><p>1</p></td></tr><tr><td><p>19th</p></td><td><p>+6</p></td><td><p>Ability Score Improvement</p></td><td><p>12</p></td><td><p>6</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>3</p></td><td><p>2</p></td></tr><tr><td><p>20th</p></td><td><p>+6</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSoulOfArt]{Soul of Artifice}</p></td><td><p>12</p></td><td><p>6</p></td><td><p>4</p></td><td><p>4</p></td><td><p>3</p></td><td><p>3</p></td><td><p>3</p></td><td><p>2</p></td></tr></tbody></table><h2>Artificer Specialties</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeAlchemist000]{Alchemist}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArmorer00000]{Armorer}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArtillerist0]{Artillerist}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBattleSmith0]{Battle Smith}</p>",
+          "chat": ""
+        },
+        "source": {
+          "book": "TCoE",
+          "page": "",
+          "custom": "",
+          "license": "",
+          "revision": 2,
+          "rules": "2014"
+        },
+        "identifier": "artificer",
+        "levels": 1,
+        "advancement": [
+          {
+            "_id": "2rrpj6b0FdcaIUoL",
+            "type": "HitPoints",
+            "configuration": {},
+            "value": {
+              "1": "max"
+            }
+          },
+          {
+            "_id": "ZGhCRqRr68FIOPgE",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "saves:con",
+                "saves:int"
+              ],
+              "choices": []
+            },
+            "level": 1,
+            "title": "",
+            "icon": null,
+            "classRestriction": "primary",
+            "value": {
+              "chosen": [
+                "saves:con",
+                "saves:int"
+              ]
+            }
+          },
+          {
+            "_id": "a9Q3F5XlVi64rNCP",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [],
+              "choices": [
+                {
+                  "count": 2,
+                  "pool": [
+                    "skills:arc",
+                    "skills:his",
+                    "skills:inv",
+                    "skills:med",
+                    "skills:nat",
+                    "skills:prc",
+                    "skills:slt"
+                  ]
+                }
+              ]
+            },
+            "level": 1,
+            "title": "Skills",
+            "icon": null,
+            "value": {
+              "chosen": [
+                "skills:slt",
+                "skills:arc"
+              ]
+            },
+            "classRestriction": "primary"
+          },
+          {
+            "_id": "86t1n8ayL6efkyiW",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "tool:art:tinker",
+                "tool:thief"
+              ],
+              "choices": [
+                {
+                  "count": 1,
+                  "pool": [
+                    "tool:art:*"
+                  ]
+                }
+              ]
+            },
+            "level": 1,
+            "title": "Tool Proficiencies",
+            "icon": null,
+            "value": {
+              "chosen": [
+                "tool:art:tinker",
+                "tool:thief",
+                "tool:art:carpenter"
+              ]
+            }
+          },
+          {
+            "_id": "NYnsijTof7yzeHfy",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartMagicalTi",
+                  "optional": false
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellcast",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {
+              "added": {
+                "ubtO5Y0a5yv0q9GC": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartMagicalTi",
+                "VkEahdHOoJE7Y3xn": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellcast"
+              }
+            },
+            "level": 1,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "oGIbrdfiOdYKN6Zs",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "cantrips",
+              "type": "number",
+              "distance": {
+                "units": ""
+              },
+              "scale": {
+                "1": {
+                  "value": 2
+                },
+                "10": {
+                  "value": 3
+                },
+                "14": {
+                  "value": 4
+                }
+              }
+            },
+            "value": {},
+            "title": "Cantrips Known",
+            "icon": null
+          },
+          {
+            "_id": "KAHrL8DbfFdsAc0Q",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartInfuseIte",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 2,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "HzZK2T83OU4ekXLm",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpecialis",
+                  "optional": false
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartTheRightT",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 3,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "kcKpxSZOMoyyoqpp",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "points": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "cap": 2,
+              "locked": [],
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi"
+            },
+            "level": 4,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "m2eLktDvQ5OVbIyP",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartToolExper",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 6,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "qfMHLhx5hdyCnCh2",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartFlashOfGe",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 7,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "6sjwEFWuaOpeLDu1",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "points": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "cap": 2,
+              "locked": [],
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi"
+            },
+            "level": 8,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "aE2VejtwIXSNBKQm",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeAdeptMagicIt",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 10,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "PAcZYcLmJK9ssPso",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "infusions",
+              "type": "number",
+              "distance": {
+                "units": ""
+              },
+              "scale": {
+                "2": {
+                  "value": 4
+                },
+                "6": {
+                  "value": 6
+                },
+                "10": {
+                  "value": 8
+                },
+                "14": {
+                  "value": 10
+                },
+                "18": {
+                  "value": 12
+                }
+              }
+            },
+            "value": {},
+            "title": "Infusions Known",
+            "icon": null
+          },
+          {
+            "_id": "tc25Q9QPAi6b3ynU",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellstor",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 11,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "v6BaXLDcUPbC409P",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "points": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "cap": 2,
+              "locked": [],
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi"
+            },
+            "level": 12,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "Mg5ArTLf04XKZUTU",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSavantMagicI",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 14,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "qDjVuaY4erGrHdf4",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "points": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "cap": 2,
+              "locked": [],
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi"
+            },
+            "level": 16,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "6qT2NWvV6b6FWkpK",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeMagicItemMas",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 18,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "7k2f3jqcltC5dXQO",
+            "type": "AbilityScoreImprovement",
+            "configuration": {
+              "points": 2,
+              "fixed": {
+                "str": 0,
+                "dex": 0,
+                "con": 0,
+                "int": 0,
+                "wis": 0,
+                "cha": 0
+              },
+              "cap": 2,
+              "locked": [],
+              "recommendation": null
+            },
+            "value": {
+              "type": "asi"
+            },
+            "level": 19,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "1git4HmptnFfXjKf",
+            "type": "ItemGrant",
+            "configuration": {
+              "items": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSoulOfArt",
+                  "optional": false
+                }
+              ],
+              "optional": false,
+              "spell": null
+            },
+            "value": {},
+            "level": 20,
+            "title": "Features",
+            "icon": null
+          },
+          {
+            "_id": "WhVEn79oi7b8UtkN",
+            "type": "ItemChoice",
+            "configuration": {
+              "choices": {
+                "2": {
+                  "count": 4,
+                  "replacement": false
+                },
+                "6": {
+                  "count": 2,
+                  "replacement": false
+                },
+                "10": {
+                  "count": 2,
+                  "replacement": false
+                },
+                "14": {
+                  "count": 2,
+                  "replacement": false
+                },
+                "18": {
+                  "count": 2,
+                  "replacement": false
+                }
+              },
+              "allowDrops": false,
+              "type": "feat",
+              "pool": [
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArcanePropul"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArmorOfMagic"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBootsOfTheWi"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeEnhancedArca"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeEnhancedDefe"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeEnhancedWeap"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeHelmOfAwaren"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeHomunculusSe"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeMindSharpene"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeRadiantWeapo"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeRepeatingSho"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeReplicateMag"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeRepulsionShi"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeResistantArm"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeReturningWea"
+                },
+                {
+                  "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSpellrefueli"
+                }
+              ],
+              "spell": null,
+              "restriction": {
+                "type": "class",
+                "subtype": "artificerInfusion",
+                "list": []
+              }
+            },
+            "value": {
+              "added": {},
+              "replaced": {}
+            },
+            "title": "Choose Infusions",
+            "icon": null,
+            "hint": "Choose the Artificer Infusions that you know. Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one."
+          },
+          {
+            "_id": "pfJBaGQmvPcBQXtt",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "armor:lgt",
+                "armor:med",
+                "armor:shl"
+              ],
+              "choices": []
+            },
+            "value": {
+              "chosen": [
+                "armor:lgt",
+                "armor:med",
+                "armor:shl"
+              ]
+            },
+            "level": 1,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "ZrUkj7BlsbK82S9A",
+            "type": "Trait",
+            "configuration": {
+              "mode": "default",
+              "allowReplacements": false,
+              "grants": [
+                "weapon:sim"
+              ],
+              "choices": []
+            },
+            "value": {
+              "chosen": [
+                "weapon:sim"
+              ]
+            },
+            "level": 1,
+            "title": "",
+            "icon": null
+          },
+          {
+            "_id": "tL3j0p4i22DEFrGs",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "infused",
+              "type": "number",
+              "distance": {
+                "units": ""
+              },
+              "scale": {
+                "2": {
+                  "value": 2
+                },
+                "6": {
+                  "value": 3
+                },
+                "10": {
+                  "value": 4
+                },
+                "14": {
+                  "value": 5
+                },
+                "18": {
+                  "value": 6
+                }
+              }
+            },
+            "value": {},
+            "title": "Infused Items",
+            "icon": null
+          },
+          {
+            "_id": "ACN6AAl7vSaF2FIQ",
+            "type": "Trait",
+            "configuration": {
+              "mode": "expertise",
+              "allowReplacements": false,
+              "grants": [
+                "tool:art",
+                "tool:disg",
+                "tool:forg",
+                "tool:herb",
+                "tool:navg",
+                "tool:pois",
+                "tool:thief"
+              ],
+              "choices": []
+            },
+            "value": {
+              "chosen": []
+            },
+            "level": 6,
+            "title": "Tool Expertise",
+            "icon": null,
+            "hint": "Any tool that you have proficiency in is increased to expertise."
+          },
+          {
+            "_id": "IE6UD6ccfYzbLo7z",
+            "type": "Subclass",
+            "configuration": {},
+            "value": {
+              "document": null,
+              "uuid": null
+            },
+            "level": 3,
+            "title": "Artificer Specialist",
+            "hint": ""
+          }
+        ],
+        "spellcasting": {
+          "progression": "artificer",
+          "ability": "int",
+          "preparation": {
+            "formula": ""
+          }
+        },
+        "wealth": "5d4*10",
+        "startingEquipment": [
+          {
+            "type": "weapon",
+            "count": 2,
+            "key": "sim",
+            "requiresProficiency": false,
+            "_id": "ojcxdMjvk0hVfV5y",
+            "group": "",
+            "sort": 100000
+          },
+          {
+            "type": "AND",
+            "requiresProficiency": false,
+            "_id": "9ACYqIxQtaMv9Zw9",
+            "group": "",
+            "sort": 200000
+          },
+          {
+            "type": "AND",
+            "requiresProficiency": false,
+            "_id": "yIfe0aMAODrnSh1c",
+            "group": "9ACYqIxQtaMv9Zw9",
+            "sort": 300000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd5e.items.Item.ddWvQRLmnnIS0eLF",
+            "requiresProficiency": false,
+            "_id": "EFeOM3FQaX5NbeAV",
+            "group": "yIfe0aMAODrnSh1c",
+            "sort": 400000
+          },
+          {
+            "type": "linked",
+            "count": 20,
+            "key": "Compendium.dnd5e.items.Item.SItCnYBqhzqBoaWG",
+            "requiresProficiency": false,
+            "_id": "xPeqfSUTFKMyMPMm",
+            "group": "yIfe0aMAODrnSh1c",
+            "sort": 500000
+          },
+          {
+            "type": "OR",
+            "requiresProficiency": false,
+            "_id": "XNnzsuXfaafJcntH",
+            "group": "",
+            "sort": 600000
+          },
+          {
+            "type": "OR",
+            "requiresProficiency": false,
+            "_id": "KxqLr317uAs75c77",
+            "group": "XNnzsuXfaafJcntH",
+            "sort": 700000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd5e.items.Item.TIV3B1vbrVHIhQAm",
+            "requiresProficiency": false,
+            "_id": "8CcSPtLFXSdiDlL5",
+            "group": "KxqLr317uAs75c77",
+            "sort": 800000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd5e.items.Item.XmnlF5fgIO3tg6TG",
+            "requiresProficiency": false,
+            "_id": "4VDGnuwEsDbrHXOT",
+            "group": "KxqLr317uAs75c77",
+            "sort": 900000
+          },
+          {
+            "type": "AND",
+            "requiresProficiency": false,
+            "_id": "2t6IgPjl09krDNZo",
+            "group": "",
+            "sort": 1000000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58",
+            "requiresProficiency": false,
+            "_id": "BS3y6UcNOFNdFOx7",
+            "group": "2t6IgPjl09krDNZo",
+            "sort": 1100000
+          },
+          {
+            "type": "linked",
+            "count": null,
+            "key": "Compendium.dnd5e.items.Item.XY8b594Dn7plACLL",
+            "requiresProficiency": false,
+            "_id": "tDtyu9lCvzpjnWCz",
+            "group": "2t6IgPjl09krDNZo",
+            "sort": 1200000
+          }
+        ],
+        "hd": {
+          "denomination": "d8",
+          "spent": 0,
+          "additional": ""
+        },
+        "primaryAbility": {
+          "value": [],
+          "all": true
+        },
+        "properties": []
+      },
+      "effects": [],
+      "folder": "bGMPi1RdsrdSjtJy",
+      "flags": {
+        "scene-packer": {
+          "hash": "a74d6367d2e84591a0de64147d56149d736f49d3"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArtificer000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764813185413,
+        "modifiedTime": 1764813185413,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 300000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ubtO5Y0a5yv0q9GC",
+      "name": "Magical Tinkering",
+      "type": "feat",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/symbols/cog-shield-white-blue.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>1st-level artificer feature</em></p><p>You’ve learned how to invest a spark of magic into mundane objects. To use this ability, you must have @UUID[Compendium.dnd5e.items.Item.woWZ1sO5IUVGzo58] tools or artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:</p><ul><li><p>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p></li><li><p>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</p></li><li><p>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</p></li><li><p>A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</p></li></ul><p>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</p><p>You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (Currently [[lookup @abilities.int.mod]], minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</p><section id=\"secret-2mYeahRj9ZAwF9aM\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes enchantments for tracking the above options.</p></section>",
+          "chat": ""
+        },
+        "source": {
+          "book": "",
+          "page": "",
+          "custom": "",
+          "license": "",
+          "revision": 2,
+          "rules": "2014"
+        },
+        "cover": null,
+        "crewed": false,
+        "uses": {
+          "max": "max(@abilities.int.mod,1)",
+          "recovery": [],
+          "spent": 0
+        },
+        "type": {
+          "value": "class",
+          "subtype": ""
+        },
+        "properties": [],
+        "requirements": "Artificer 1",
+        "prerequisites": {
+          "level": 1,
+          "items": [],
+          "repeatable": false
+        },
+        "activities": {
+          "Nu2K195hCD6wnKBH": {
+            "type": "enchant",
+            "_id": "Nu2K195hCD6wnKBH",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [
+              {
+                "_id": "2kP7DFG4S1Qagr1V",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "riders": {
+                  "activity": [],
+                  "effect": [],
+                  "item": []
+                }
+              },
+              {
+                "_id": "yEBBnLjogtXdmFkB",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "riders": {
+                  "activity": [],
+                  "effect": [],
+                  "item": []
+                }
+              },
+              {
+                "_id": "0ORzzdaXzTztwcm2",
+                "level": {
+                  "min": null,
+                  "max": null
+                },
+                "riders": {
+                  "activity": [],
+                  "effect": [],
+                  "item": []
+                }
+              },
+              {
+                "_id": "IZmeEB8z2fat1Ehc",
+                "level": {},
+                "riders": {
+                  "activity": [],
+                  "effect": [],
+                  "item": []
+                }
+              }
+            ],
+            "range": {
+              "override": false,
+              "units": "touch",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "type": "object",
+                "count": "1",
+                "special": "tiny non-magical"
+              },
+              "override": false,
+              "prompt": true
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "enchant": {
+              "self": false
+            },
+            "restrictions": {
+              "allowMagical": false,
+              "categories": [],
+              "properties": [],
+              "type": ""
+            },
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "advancement": [],
+        "identifier": "magical-tinkering",
+        "enchant": {}
+      },
+      "effects": [
+        {
+          "name": "Light",
+          "flags": {
+            "dnd5e": {
+              "persistSourceMigration": true
+            }
+          },
+          "_id": "2kP7DFG4S1Qagr1V",
+          "changes": [
+            {
+              "key": "name",
+              "mode": 2,
+              "value": ", Emits Light",
+              "priority": null
+            },
+            {
+              "key": "system.description",
+              "mode": 2,
+              "value": "<p>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "<p>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p>",
+          "origin": null,
+          "transfer": false,
+          "statuses": [],
+          "tint": "#ffffff",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.2.1",
+            "lastModifiedBy": null
+          },
+          "img": "icons/magic/light/explosion-star-glow-orange.webp",
+          "type": "enchantment",
+          "system": {},
+          "sort": 0
+        },
+        {
+          "name": "Sound",
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "disabled": false,
+          "flags": {
+            "dnd5e": {
+              "persistSourceMigration": true
+            }
+          },
+          "_id": "yEBBnLjogtXdmFkB",
+          "changes": [
+            {
+              "key": "name",
+              "mode": 2,
+              "value": ", Emits Sound",
+              "priority": null
+            },
+            {
+              "key": "system.description",
+              "mode": 2,
+              "value": "<p>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</p>",
+              "priority": null
+            }
+          ],
+          "description": "<p>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</p>",
+          "origin": null,
+          "transfer": false,
+          "statuses": [],
+          "tint": "#ffffff",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.2.1",
+            "lastModifiedBy": null
+          },
+          "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+          "type": "enchantment",
+          "system": {},
+          "sort": 0
+        },
+        {
+          "name": "Smell/Non-Verbal Sound",
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "disabled": false,
+          "flags": {
+            "dnd5e": {
+              "persistSourceMigration": true
+            }
+          },
+          "_id": "0ORzzdaXzTztwcm2",
+          "changes": [
+            {
+              "key": "name",
+              "mode": 2,
+              "value": ", Emits Smell/Sound",
+              "priority": null
+            },
+            {
+              "key": "system.description",
+              "mode": 2,
+              "value": "<p>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</p>",
+              "priority": null
+            }
+          ],
+          "description": "<p>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</p>",
+          "origin": null,
+          "transfer": false,
+          "statuses": [],
+          "tint": "#ffffff",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.2.1",
+            "lastModifiedBy": null
+          },
+          "img": "icons/magic/air/wind-stream-blue-gray.webp",
+          "type": "enchantment",
+          "system": {},
+          "sort": 0
+        },
+        {
+          "name": "Visual",
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "disabled": false,
+          "flags": {
+            "dnd5e": {
+              "persistSourceMigration": true
+            }
+          },
+          "_id": "IZmeEB8z2fat1Ehc",
+          "changes": [
+            {
+              "key": "name",
+              "mode": 2,
+              "value": ", Emits Visual",
+              "priority": null
+            },
+            {
+              "key": "system.description",
+              "mode": 2,
+              "value": "<p>A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</p>",
+              "priority": null
+            }
+          ],
+          "description": "<p>A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</p>",
+          "origin": null,
+          "transfer": false,
+          "statuses": [],
+          "tint": "#ffffff",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.2.1",
+            "lastModifiedBy": null
+          },
+          "img": "icons/magic/symbols/symbol-lightning-bolt.webp",
+          "type": "enchantment",
+          "system": {},
+          "sort": 0
+        }
+      ],
+      "folder": "iXkA6yBUaL2tk2ay",
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "migratedUses": null,
+          "sourceId": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartMagicalTi",
+          "advancementOrigin": "LxQwX4DGD7tRBKFU.NYnsijTof7yzeHfy",
+          "advancementRoot": "LxQwX4DGD7tRBKFU.NYnsijTof7yzeHfy"
+        },
+        "scene-packer": {
+          "hash": "ffd3b2b454f4ec80996cfa8d675f4d6c72b8f7f0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartMagicalTi",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764813185413,
+        "modifiedTime": 1764813185413,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "VkEahdHOoJE7Y3xn",
+      "name": "Spellcasting",
+      "type": "feat",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/commodities/tech/tube-chamber-lightning.webp",
+      "system": {
+        "description": {
+          "value": "<p><em>1st-level artificer feature</em></p><p>You’ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don’t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.</p><h5>Tools Required</h5><p>You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves’ tools or some kind of artisan’s tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an “M” component when you cast it). You must be proficient with the tool to use it in this way. See the @UUID[Compendium.dnd5e.rules.JournalEntry.BYFd9hiJGo9L5aOM.JournalEntryPage.Rs0xLMFGbcCkEhuA]{tools} section of the equipment chapter for descriptions of these tools.</p><p>After you gain the @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartInfuseIte]{Infuse Item} feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.</p><aside class=\"notable\"><h3>The Magic of Artifice</h3><p>As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you’re using a tool. For example, if you cast cure wounds using alchemist’s supplies, you could be quickly producing a salve. If you cast it using tinker’s tools, you might have a miniature mechanical spider that binds wounds. The effect of the spell is the same either way.</p><p>Such details don’t limit you in any way or provide you with any benefit beyond the spell’s effects. You don’t have to justify how you’re using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.</p></aside><h5>Cantrips</h5><p>You know two cantrips of your choice from the @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpellLists00.JournalEntryPage.btQIVPtSLQewCrTZ]{artificer spell list}. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.</p><p>When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.</p><h5>Preparing and Casting Spells</h5><p>The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.</p><p>You prepare the list of artificer spells that are available for you to cast, choosing from the @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpellLists00.JournalEntryPage.btQIVPtSLQewCrTZ]{artificer spell list}. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</p><p>For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.</p><p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.</p><h5>Spellcasting Ability</h5><p>Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.</p><p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Intelligence modifier</p><p><strong>Spell attack modifier</strong> = your proficiency bonus + your Intelligence modifier</p><h5>Ritual Casting</h5><p>You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p>",
+          "chat": ""
+        },
+        "source": {
+          "revision": 1,
+          "rules": "2024"
+        },
+        "cover": null,
+        "crewed": false,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "class",
+          "subtype": ""
+        },
+        "properties": [],
+        "requirements": "Artificer 1",
+        "prerequisites": {
+          "level": 1,
+          "items": [],
+          "repeatable": false
+        },
+        "activities": {},
+        "advancement": [],
+        "identifier": "spellcasting",
+        "enchant": {}
+      },
+      "effects": [],
+      "folder": "iXkA6yBUaL2tk2ay",
+      "flags": {
+        "dnd5e": {
+          "sourceId": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellcast",
+          "advancementOrigin": "LxQwX4DGD7tRBKFU.NYnsijTof7yzeHfy",
+          "advancementRoot": "LxQwX4DGD7tRBKFU.NYnsijTof7yzeHfy"
+        },
+        "scene-packer": {
+          "hash": "2996822d2ba1f7d21206509e122344b60dd8f24b"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeartSpellcast",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764813185413,
+        "modifiedTime": 1764813185413,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "sort": 150000,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Priest’s Pack",
+      "system": {
+        "description": {
+          "value": "<p>A Priest’s Pack contains the following items: @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBackpack000]{Backpack}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBlanket0000]{Blanket}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagHolyWater00]{Holy Water}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagLamp0000000]{Lamp}, 7 days of @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRations0000]{Rations}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRobe0000000]{Robe}, and @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagTinderbox00]{Tinderbox}.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 33,
+          "denomination": "gp"
+        },
+        "quantity": 1,
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "weight": {
+          "value": 5,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "currency": {
+          "pp": 0,
+          "gp": 0,
+          "ep": 0,
+          "sp": 0,
+          "cp": 0
+        },
+        "properties": [],
+        "capacity": {
+          "weight": {
+            "value": 30,
+            "units": "lb"
+          },
+          "volume": {
+            "units": "cubicFoot"
+          }
+        },
+        "identifier": "priests-pack",
+        "attuned": false,
+        "equipped": false
+      },
+      "_id": "vONdZb3s7vKeZcZD",
+      "type": "container",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/containers/bags/pack-engraved-leather-blue.webp",
+      "effects": [],
+      "sort": 5000000,
+      "flags": {
+        "dnd5e": {},
+        "scene-packer": {
+          "hash": "5ce448788610a98afba5a67894cc90083d5dc4fb"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagPriestsPack",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Blanket",
+      "system": {
+        "description": {
+          "value": "<p>While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the <em>Dungeon Master</em> <em>’s Guide</em>).</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 1,
+        "weight": {
+          "value": 3,
+          "units": "lb"
+        },
+        "rarity": "",
+        "properties": [],
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
+        "identifier": "blanket"
+      },
+      "_id": "DD5NL54UUGKBUfOC",
+      "type": "loot",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/sundries/survival/bedroll-pink.webp",
+      "effects": [],
+      "sort": 7800000,
+      "flags": {
+        "dnd5e": {},
+        "scene-packer": {
+          "hash": "94c80b963c3e3a7c0aeb1a22e92f250e22ab4824"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagBlanket0000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Holy Water",
+      "system": {
+        "description": {
+          "value": "<p>When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "uses": {
+          "max": "1",
+          "autoDestroy": true,
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          },
+          "replace": false
+        },
+        "type": {
+          "value": "potion",
+          "subtype": ""
+        },
+        "magicalBonus": null,
+        "properties": [],
+        "activities": {
+          "ArV3jMOIvfj5c5y9": {
+            "type": "save",
+            "name": "Throw",
+            "_id": "ArV3jMOIvfj5c5y9",
+            "sort": 0,
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ]
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "ft",
+              "special": "",
+              "value": "20"
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "count": "1",
+                "type": "creature",
+                "special": ""
+              },
+              "override": false,
+              "prompt": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "damage": {
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 2,
+                  "denomination": 8,
+                  "bonus": "",
+                  "types": [
+                    "radiant"
+                  ],
+                  "scaling": {
+                    "number": 1
+                  }
+                }
+              ],
+              "onSave": "half"
+            },
+            "save": {
+              "ability": [
+                "dex"
+              ],
+              "dc": {
+                "calculation": "dex",
+                "formula": ""
+              }
+            },
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "holy-water"
+      },
+      "_id": "lHibnqYTFOhwVCVv",
+      "type": "consumable",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/consumables/potions/bottle-round-empty-glass.webp",
+      "effects": [],
+      "sort": 2600000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "2f6ca7ed7bfed1d095743364a500bb1b7589acd8"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagHolyWater00",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Lamp",
+      "system": {
+        "description": {
+          "value": "<p>A Lamp burns @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagOil00000000]{Oil} as fuel to cast Bright Light in a 15-foot radius and Dim Light for an additional 30 feet.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "cover": null,
+        "uses": {
+          "max": "1",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": null,
+          "magicalBonus": null,
+          "dex": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {
+          "khBeGXY2PYjIvbvA": {
+            "type": "utility",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [
+                {
+                  "type": "itemUses",
+                  "value": "1",
+                  "target": "",
+                  "scaling": {}
+                }
+              ],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "6",
+              "units": "hour",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "units": "self",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "radius",
+                "size": "45",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "self",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "roll": {
+              "formula": "",
+              "name": "",
+              "prompt": false,
+              "visible": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "khBeGXY2PYjIvbvA",
+            "name": "Light",
+            "img": "systems/dnd5e/icons/svg/trait-damage-immunities.svg",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "lamp",
+        "crew": {
+          "value": []
+        }
+      },
+      "_id": "Mma0qeu40NDPhjXR",
+      "type": "equipment",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/69114a289af93c3f3670adbb/modules/dnd-players-handbook/assets/full/items/lamp.webp",
+      "effects": [],
+      "sort": 3200000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "5563a0a6f0935cfd0da5c4693bd208078d5dd885"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagLamp0000000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Rations",
+      "system": {
+        "description": {
+          "value": "<p>Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See “Malnutrition” in the rules glossary for the risks of not eating.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 7,
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "uses": {
+          "max": "1",
+          "autoDestroy": true,
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": null,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            }
+          },
+          "replace": false
+        },
+        "type": {
+          "value": "food",
+          "subtype": ""
+        },
+        "magicalBonus": null,
+        "properties": [],
+        "activities": {},
+        "identifier": "rations"
+      },
+      "_id": "JVAgHhoFZjabMB2i",
+      "type": "consumable",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/consumables/food/berries-ration-round-red.webp",
+      "effects": [],
+      "sort": 5300000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "3d85afdcacd614f653f88cd36aa21974deeba9d2"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagRations0000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Robe",
+      "system": {
+        "description": {
+          "value": "<p>A Robe has vocational or ceremonial significance. Some events and locations admit only people wearing a Robe bearing certain colors or symbols.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 1,
+        "weight": {
+          "value": 4,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": null,
+          "magicalBonus": null,
+          "dex": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "clothing",
+          "baseItem": ""
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {},
+        "identifier": "robe",
+        "crew": {
+          "value": []
+        }
+      },
+      "_id": "stpfswL6tBun4XfG",
+      "type": "equipment",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/equipment/back/mantle-collared-black.webp",
+      "effects": [],
+      "sort": 5400000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "c28409c24089c8b2900958b4f1c9f6489a3da4d0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagRobe0000000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Tinderbox",
+      "system": {
+        "description": {
+          "value": "<p>A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "vONdZb3s7vKeZcZD",
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "attuned": false,
+        "equipped": false,
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": null,
+          "magicalBonus": null,
+          "dex": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {
+          "lshQ6ZeI69B0aRpu": {
+            "type": "utility",
+            "name": "Light",
+            "_id": "lshQ6ZeI69B0aRpu",
+            "sort": 0,
+            "activation": {
+              "type": "bonus",
+              "value": null,
+              "override": false,
+              "condition": ""
+            },
+            "consumption": {
+              "scaling": {
+                "allowed": false
+              },
+              "spellSlot": true,
+              "targets": []
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "concentration": false,
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self",
+              "special": ""
+            },
+            "target": {
+              "template": {
+                "contiguous": false,
+                "units": "ft",
+                "type": ""
+              },
+              "affects": {
+                "choice": false,
+                "count": "",
+                "type": ""
+              },
+              "override": false,
+              "prompt": false
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "roll": {
+              "prompt": false,
+              "visible": false,
+              "name": "",
+              "formula": ""
+            },
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "tinderbox",
+        "crew": {
+          "value": []
+        }
+      },
+      "_id": "oKjSNfMR8ktGN91P",
+      "type": "equipment",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/sundries/lights/torch-black.webp",
+      "effects": [],
+      "sort": 6500000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "a3afa3bc755b7fa62e03bfe7cdb3a31c6466d1b8"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagTinderbox00",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816374615,
+        "modifiedTime": 1764816374615,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Dragonchess",
+      "system": {
+        "description": {
+          "value": "<p><strong>Ability:</strong> Wisdom</p><p class=\"phb-meta\"><strong>Utilize:</strong> Discern whether someone is cheating (DC 10), or win the game (DC 20)</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 0,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "game",
+          "baseItem": "chess"
+        },
+        "ability": "wis",
+        "chatFlavor": "",
+        "proficient": null,
+        "properties": [],
+        "bonus": "",
+        "activities": {
+          "NDaV33ElahCIeFGJ": {
+            "type": "check",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "units": "self",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "check": {
+              "ability": "wis",
+              "dc": {
+                "calculation": "",
+                "formula": "10"
+              },
+              "associated": [
+                "chess"
+              ]
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "name": "Catch Cheating",
+            "_id": "NDaV33ElahCIeFGJ",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          },
+          "HVVXAdVmahZwMWmn": {
+            "type": "check",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "units": "self",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "check": {
+              "ability": "wis",
+              "dc": {
+                "calculation": "",
+                "formula": "20"
+              },
+              "associated": [
+                "chess"
+              ]
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "name": "Play to Win",
+            "_id": "HVVXAdVmahZwMWmn",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "dragonchess",
+        "attuned": false,
+        "equipped": false
+      },
+      "_id": "tKHuIK3p2nkFnNKs",
+      "type": "tool",
+      "folder": "oYxcxfKSDOdUdaaN",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/sundries/gaming/chess-knight-white.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "f2b24f01851442681ace3f7189e57394bf5c2592"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbgstDragonches",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764816387428,
+        "modifiedTime": 1764816387428,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Chain Shirt",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 50,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 20,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "cover": null,
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "armor": {
+          "value": 13,
+          "magicalBonus": null,
+          "dex": 2
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "medium",
+          "baseItem": "chainshirt"
+        },
+        "properties": [],
+        "speed": {
+          "value": null,
+          "conditions": "",
+          "units": "ft"
+        },
+        "strength": null,
+        "proficient": null,
+        "activities": {},
+        "identifier": "chain-shirt",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true
+      },
+      "_id": "xPLGdYNYloOZD9Qy",
+      "type": "equipment",
+      "folder": "tNySLDnz2qPVahU7",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/equipment/chest/breastplate-scale-grey.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "6023d451d62b77104b1bd8b94d9f01c4ff4737b3"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbarmChainShirt",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818637470,
+        "modifiedTime": 1764818765577,
+        "lastModifiedBy": "AZnfzkicsWNAhhF3"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shortsword",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 10,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": true,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            }
+          },
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "martialM",
+          "baseItem": "shortsword"
+        },
+        "magicalBonus": null,
+        "properties": [
+          "fin",
+          "lgt"
+        ],
+        "proficient": null,
+        "activities": {
+          "42jdrHDfDRCcYeL4": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "value": "5",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "melee",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "42jdrHDfDRCcYeL4",
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "ammunition": {},
+        "mastery": "vex",
+        "identifier": "shortsword",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true
+      },
+      "_id": "vNi9vfswXNbjpMA3",
+      "type": "weapon",
+      "folder": "fd3qxAXCv2FhExPp",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/weapons/swords/sword-guard-worn-purple.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "5e80b7e94e2eaa8b0986d3aa3c87da38797404e7"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbwepShortsword",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818649327,
+        "modifiedTime": 1764818753395,
+        "lastModifiedBy": "AZnfzkicsWNAhhF3"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Shortbow",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 2,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": 80,
+          "long": 320,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": true,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            }
+          },
+          "base": {
+            "number": 1,
+            "denomination": 6,
+            "types": [
+              "piercing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "simpleR",
+          "baseItem": "shortbow"
+        },
+        "magicalBonus": null,
+        "properties": [
+          "amm",
+          "two"
+        ],
+        "proficient": null,
+        "activities": {
+          "XTpNEcni4iwfmaeA": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "value": "80",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "XTpNEcni4iwfmaeA",
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "ammunition": {
+          "type": "arrow"
+        },
+        "mastery": "vex",
+        "identifier": "shortbow",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true
+      },
+      "_id": "cDZuLf8zFcwMHyXA",
+      "type": "weapon",
+      "folder": "atG8UGtcNyNweUOt",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/weapons/bows/shortbow-leather.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "last": {
+            "XTpNEcni4iwfmaeA": {
+              "ammunition": "I5xtTjh6EVGnPVlx",
+              "attackMode": "twoHanded",
+              "damageType": {
+                "0": "piercing"
+              }
+            }
+          }
+        },
+        "scene-packer": {
+          "hash": "09667cc1186c9b0b0e13800611f98f3ba61ba8e6"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbwepShortbow00",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818710588,
+        "modifiedTime": 1764980760602,
+        "lastModifiedBy": "OqkWdaLmo32lGhsH"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Quiver",
+      "system": {
+        "description": {
+          "value": "<p>A Quiver holds up to 20 Arrows.</p>",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "quantity": 1,
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "currency": {
+          "pp": 0,
+          "gp": 0,
+          "ep": 0,
+          "sp": 0,
+          "cp": 0
+        },
+        "properties": [],
+        "capacity": {
+          "volume": {
+            "units": "cubicFoot"
+          },
+          "weight": {
+            "units": "lb"
+          }
+        },
+        "identifier": "quiver",
+        "attuned": false,
+        "equipped": false
+      },
+      "_id": "NcqEXFdXuTAIulEr",
+      "type": "container",
+      "folder": "uDk4FBYfcP2JnX6t",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/containers/ammunition/arrows-quiver-black.webp",
+      "effects": [],
+      "sort": 5100000,
+      "flags": {
+        "dnd5e": {},
+        "scene-packer": {
+          "hash": "e80771eaaf6366659cee4854f9531318a35bd00b"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbagQuiver00000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818719991,
+        "modifiedTime": 1764818719991,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Arrows",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": "NcqEXFdXuTAIulEr",
+        "quantity": 13,
+        "weight": {
+          "value": 0.05,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "uses": {
+          "max": "",
+          "autoDestroy": false,
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "base": {
+            "number": null,
+            "denomination": 0,
+            "types": [],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          },
+          "replace": false
+        },
+        "type": {
+          "value": "ammo",
+          "subtype": "arrow"
+        },
+        "magicalBonus": null,
+        "properties": [],
+        "activities": {},
+        "identifier": "arrows",
+        "attuned": false,
+        "equipped": false
+      },
+      "_id": "I5xtTjh6EVGnPVlx",
+      "type": "consumable",
+      "folder": null,
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/weapons/ammunition/arrows-broadhead-white.webp",
+      "effects": [],
+      "sort": 5200000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "5dd00daf28cccf23fc3f7a3bb4b5e3abadeca8d8"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.dnd-players-handbook.equipment.Item.phbamoArrows0000",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818719991,
+        "modifiedTime": 1764988617926,
+        "lastModifiedBy": "OqkWdaLmo32lGhsH"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Light Crossbow",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": ""
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 5,
+          "units": "lb"
+        },
+        "rarity": "",
+        "attunement": "",
+        "cover": null,
+        "range": {
+          "value": 80,
+          "long": 320,
+          "units": "ft",
+          "reach": null
+        },
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "damage": {
+          "versatile": {
+            "number": null,
+            "denomination": null,
+            "bonus": "",
+            "types": [],
+            "custom": {
+              "enabled": true,
+              "formula": ""
+            },
+            "scaling": {
+              "mode": "",
+              "number": null,
+              "formula": ""
+            }
+          },
+          "base": {
+            "number": 1,
+            "denomination": 8,
+            "types": [
+              "piercing"
+            ],
+            "custom": {
+              "enabled": false
+            },
+            "scaling": {
+              "number": 1
+            },
+            "bonus": ""
+          }
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": null,
+          "max": null,
+          "dt": null,
+          "conditions": ""
+        },
+        "type": {
+          "value": "simpleR",
+          "baseItem": "lightcrossbow"
+        },
+        "magicalBonus": null,
+        "properties": [
+          "amm",
+          "lod",
+          "two"
+        ],
+        "proficient": null,
+        "activities": {
+          "UYlAFnNzdcc3L81u": {
+            "type": "attack",
+            "activation": {
+              "type": "action",
+              "value": 1,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "value": "80",
+              "units": "ft",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "attack": {
+              "ability": "",
+              "bonus": "",
+              "critical": {
+                "threshold": null
+              },
+              "flat": false,
+              "type": {
+                "value": "ranged",
+                "classification": "weapon"
+              }
+            },
+            "damage": {
+              "critical": {
+                "bonus": ""
+              },
+              "includeBase": true,
+              "parts": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "UYlAFnNzdcc3L81u",
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "ammunition": {
+          "type": "crossbowBolt"
+        },
+        "mastery": "slow",
+        "identifier": "light-crossbow",
+        "crew": {
+          "value": []
+        },
+        "attuned": false,
+        "equipped": true
+      },
+      "_id": "0EnNxsLDHjWMuyEY",
+      "type": "weapon",
+      "folder": "atG8UGtcNyNweUOt",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/weapons/crossbows/crossbow-simple-brown.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "last": {
+            "UYlAFnNzdcc3L81u": {
+              "attackMode": "twoHanded"
+            }
+          }
+        },
+        "scene-packer": {
+          "hash": "3db7427bbb35d1959920c7da63a98dc7fdf91282"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbwepLightCross",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764818757317,
+        "modifiedTime": 1764989361578,
+        "lastModifiedBy": "OqkWdaLmo32lGhsH"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Thieves' Tools",
+      "system": {
+        "description": {
+          "value": "<p class=\"phb-meta\"><strong>Ability:</strong> Dexterity</p><p class=\"phb-meta\"><strong>Utilize:</strong> Pick a lock (DC 15), or disarm a trap (DC 15)</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "identified": true,
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "quantity": 1,
+        "weight": {
+          "value": 1,
+          "units": "lb"
+        },
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "attunement": "",
+        "uses": {
+          "max": "",
+          "spent": 0,
+          "recovery": []
+        },
+        "type": {
+          "value": "",
+          "baseItem": "thief"
+        },
+        "ability": "dex",
+        "chatFlavor": "",
+        "proficient": null,
+        "properties": [],
+        "bonus": "",
+        "activities": {
+          "4pIHxWxCdaF3Ieok": {
+            "type": "check",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "condition": "",
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "concentration": false,
+              "value": "",
+              "units": "inst",
+              "special": "",
+              "override": false
+            },
+            "effects": [],
+            "range": {
+              "units": "self",
+              "special": "",
+              "override": false
+            },
+            "target": {
+              "template": {
+                "count": "",
+                "contiguous": false,
+                "type": "",
+                "size": "",
+                "width": "",
+                "height": "",
+                "units": "ft"
+              },
+              "affects": {
+                "count": "",
+                "type": "",
+                "choice": false,
+                "special": ""
+              },
+              "prompt": false,
+              "override": false
+            },
+            "check": {
+              "ability": "dex",
+              "dc": {
+                "calculation": "",
+                "formula": "15"
+              },
+              "associated": []
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "_id": "4pIHxWxCdaF3Ieok",
+            "name": "Pick a Lock/Disarm a Trap",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "thieves-tools",
+        "attuned": false,
+        "equipped": false
+      },
+      "_id": "QvU54frAFxqrGov9",
+      "type": "tool",
+      "folder": "GdxYMawvxybALCny",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/tools/hand/lockpicks-steel-grey.webp",
+      "effects": [],
+      "sort": 0,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "ea2b399cb9efb00317654a37d9a5d1aeafe20ddb"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.equipment24.Item.phbtulThievesToo",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764819147904,
+        "modifiedTime": 1764819147904,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Healing Word",
+      "system": {
+        "description": {
+          "value": "<p>A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.</p><p><strong>Using a Higher-Level Spell Slot.</strong> The healing increases by 2d4 for each spell slot level above 1.</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "activation": {
+          "type": "bonus",
+          "condition": "",
+          "value": null
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature",
+            "count": "1",
+            "choice": false
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false
+          }
+        },
+        "range": {
+          "value": "60",
+          "units": "ft"
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "level": 1,
+        "school": "abj",
+        "properties": [
+          "vocal"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
+            "type": "heal",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "override": false,
+              "concentration": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "healing": {
+              "number": 2,
+              "denomination": 4,
+              "bonus": "@mod",
+              "types": [
+                "healing"
+              ],
+              "custom": {
+                "enabled": false,
+                "formula": ""
+              },
+              "scaling": {
+                "mode": "whole",
+                "number": 2,
+                "formula": ""
+              }
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": []
+            },
+            "sort": 0,
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "healing-word",
+        "method": "spell",
+        "sourceClass": "artificer",
+        "prepared": 0
+      },
+      "_id": "QBcEMR7xaPHtfJzk",
+      "type": "spell",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/life/cross-beam-green.webp",
+      "effects": [],
+      "folder": "pBaAAtXBCq9FVEnL",
+      "sort": 2300000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          },
+          "last": {
+            "dnd5eactivity000": {
+              "damageType": {
+                "0": "healing"
+              }
+            }
+          }
+        },
+        "scene-packer": {
+          "hash": "5cf485d2ae74d1b389b84dce944c3c8c4847e046"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.spells24.Item.phbsplHealingWor",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764987861899,
+        "modifiedTime": 1764990891843,
+        "lastModifiedBy": "OqkWdaLmo32lGhsH"
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Magic Missile",
+      "system": {
+        "description": {
+          "value": "<p>You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.</p><p><strong>Using a Higher-Level Spell Slot.</strong> The spell creates one more dart for each spell slot level above 1.</p><p>[[2 + @item.level]]{Level [[lookup @item.level]] darts}</p>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "rules": "2024",
+          "license": "CC-BY-4.0",
+          "book": "",
+          "revision": 1
+        },
+        "activation": {
+          "type": "action",
+          "condition": "",
+          "value": null
+        },
+        "duration": {
+          "value": "",
+          "units": "inst"
+        },
+        "target": {
+          "affects": {
+            "type": "creature",
+            "count": "2 + @item.level",
+            "choice": false,
+            "special": ""
+          },
+          "template": {
+            "units": "ft",
+            "contiguous": false,
+            "type": ""
+          }
+        },
+        "range": {
+          "value": "120",
+          "units": "ft",
+          "special": ""
+        },
+        "uses": {
+          "max": "",
+          "recovery": [],
+          "spent": 0
+        },
+        "level": 1,
+        "school": "evo",
+        "properties": [
+          "vocal",
+          "somatic"
+        ],
+        "materials": {
+          "value": "",
+          "consumed": false,
+          "cost": 0,
+          "supply": 0
+        },
+        "activities": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
+            "type": "damage",
+            "activation": {
+              "type": "action",
+              "value": null,
+              "override": false
+            },
+            "consumption": {
+              "targets": [],
+              "scaling": {
+                "allowed": false,
+                "max": ""
+              },
+              "spellSlot": true
+            },
+            "description": {
+              "chatFlavor": ""
+            },
+            "duration": {
+              "units": "inst",
+              "override": false,
+              "concentration": false
+            },
+            "effects": [],
+            "range": {
+              "override": false,
+              "units": "self"
+            },
+            "target": {
+              "prompt": true,
+              "template": {
+                "contiguous": false,
+                "units": "ft"
+              },
+              "affects": {
+                "choice": false
+              },
+              "override": false
+            },
+            "damage": {
+              "critical": {
+                "allow": false,
+                "bonus": ""
+              },
+              "parts": [
+                {
+                  "custom": {
+                    "enabled": false,
+                    "formula": ""
+                  },
+                  "number": 1,
+                  "denomination": 4,
+                  "bonus": "1",
+                  "types": [
+                    "force"
+                  ],
+                  "scaling": {
+                    "mode": "",
+                    "number": 1
+                  }
+                }
+              ]
+            },
+            "uses": {
+              "spent": 0,
+              "recovery": [],
+              "max": ""
+            },
+            "sort": 0,
+            "name": "",
+            "flags": {},
+            "visibility": {
+              "level": {},
+              "requireAttunement": false,
+              "requireIdentification": false,
+              "requireMagic": false
+            }
+          }
+        },
+        "identifier": "magic-missile",
+        "method": "spell",
+        "sourceClass": "artificer",
+        "prepared": 0
+      },
+      "_id": "r84orPqS05GkVOD3",
+      "type": "spell",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/light/projectiles-pink-purple.webp",
+      "effects": [],
+      "folder": "pBaAAtXBCq9FVEnL",
+      "sort": 1100000,
+      "flags": {
+        "dnd5e": {
+          "riders": {
+            "activity": [],
+            "effect": []
+          }
+        },
+        "scene-packer": {
+          "hash": "5613f05b567b3fdf612f1633278bd4fb2beba10e"
+        }
+      },
+      "_stats": {
+        "duplicateSource": null,
+        "exportSource": null,
+        "compendiumSource": "Compendium.dnd5e.spells24.Item.phbsplMagicMissi",
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.1",
+        "createdTime": 1764988090252,
+        "modifiedTime": 1764988090252,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [
+    {
+      "_id": "dnd5ebloodied000",
+      "name": "Bloodied",
+      "img": "systems/dnd5e/icons/svg/statuses/bloodied.svg",
+      "statuses": [
+        "bloodied"
+      ],
+      "type": "base",
+      "system": {},
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": 60,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": false,
+      "sort": 0,
+      "flags": {
+        "dae": {
+          "specialDuration": []
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.2",
+        "createdTime": 1765147706897,
+        "modifiedTime": 1765147706897,
+        "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+      }
+    }
+  ],
+  "flags": {
+    "scene-packer": {
+      "hash": "c9144bd0160f1d4dd499c335fd4158714585e15a",
+      "sourceId": "Actor.HRPs0bteR5oRIhrW"
+    },
+    "foundryvtt-actor-studio": {
+      "droppedItems": {
+        "race": [
+          {
+            "name": "Gnome, Rock",
+            "uuid": "Compendium.dnd-players-handbook.origins.Item.phbspRockGnome00"
+          }
+        ],
+        "background": [
+          {
+            "name": "Artisan",
+            "uuid": "Compendium.dnd-players-handbook.origins.Item.phbbgArtisan0000"
+          }
+        ],
+        "class": [
+          {
+            "name": "Artificer",
+            "uuid": "Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeArtificer000"
+          }
+        ]
+      }
+    },
+    "core": {
+      "sheetClass": ""
+    },
+    "dnd5e": {
+      "showTokenPortrait": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "one-shot-hob",
+      "uuid": "Actor.HRPs0bteR5oRIhrW",
+      "coreVersion": "13.351",
+      "systemId": "dnd5e",
+      "systemVersion": "5.2.2"
+    },
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.2",
+    "createdTime": 1764812492887,
+    "modifiedTime": 1765147706729,
+    "lastModifiedBy": "PgSl0Yc3lE2YvaqM"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
